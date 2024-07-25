@@ -1,11 +1,11 @@
-CampaignSeq,Type,Name,Factor
-7001,Email,Market Trends Newsletter,3
-7002,Email,Monthly Newsletter,1
-7003,Email,New Product Releases,3
-7004,Online,Bing Ad Placement,11
-7005,Online,Instagram ,1
-7006,Online,Twitter,1
-7007,Phone,Customer Care Campaign,5
-7008,Phone,Customer Follow-up,5
-7009,Tradeshow,Commercial Tradeshow,5
-7010,Tradeshow,Consumer Tradeshow,3
+CampaignSeq,Campaign_Type,Campaign
+7001,Email,Market Trends Newsletter
+7002,Email,Monthly Newsletter
+7003,Email,New Product Releases
+7004,Online,Bing Ad Placement
+7005,Online,Instagram 
+7006,Online,Twitter
+7007,Phone,Customer Care Campaign
+7008,Phone,Customer Follow-up
+7009,Tradeshow,Commercial Tradeshow
+7010,Tradeshow,Consumer Tradeshow

@@ -1,14 +1,21 @@
-SystemUserSeq,Owner,Manager,Factor,,,,
-1,Molly Clark,"Low, Spencer",10,,,,
-2,Eric Gruber,"Weiler, Anne",5,,,,
-3,Jeff Hay,"Low, Spencer",7,,,,
-4,Julian Isla,"Low, Spencer",9,,,,
-5,Dan Jump,"Weiler, Anne",10,,,,
-6,Renee Lo,"Low, Spencer",9,,,,
-7,Spencer Low,"Low, Spencer",9,,,,
-8,Sanjay Shah,"Low, Spencer",6,,,,
-9,David So,"Weiler, Anne",7,,,,
-10,Alan Steiner,"Weiler, Anne",5,,,,
-11,Alicia Thomber,"Weiler, Anne",9,,,,
-12,Anne Weiler,"Weiler, Anne",7,,,,
-13,Greg Winston,"Weiler, Anne",5,,,,
+﻿Manager,Owner,systemuserid,SystemUserSeq
+Amelie Garner,Alan Steiner,5ae6bbcc-eb1e-eb11-a814-000d3a9c7ff2,2
+Amelie Garner,Alicia Thomber,a4575859-ef1e-eb11-a814-000d3a9c7ff2,1
+Amelie Garner,Anne Weiler,e4e99a85-e31e-eb11-a814-000d3a9c7ff2,3
+Amelie Garner,David So,f2026cde-f31e-eb11-a814-000d3a9c7ff2,4
+Amelie Garner,Greg Winston,4307c90a-f51e-eb11-a814-000d3a9c7ff2,5
+Amelie Garner,Sanjay Shah,36b0eba1-e51e-eb11-a814-000d3a9c7ff2,6
+Amelie Garner,Spencer Low,1d4174a3-e31e-eb11-a814-000d3a9c7ff2,7
+Ethan Brooks,Dan Jump,322492b1-e41e-eb11-a814-000d3a9c7ff2,8
+Ethan Brooks,Eric Gruber,22c58905-de1e-eb11-a814-000d3a9c7ff2,9
+Ethan Brooks,Jeff Hay,113999f9-dd1e-eb11-a814-000d3a9c7ff2,10
+Ethan Brooks,Julian Isla,22dde512-f81e-eb11-a814-000d3a9c7ff2,11
+Ethan Brooks,Molly Clark,1c6090f3-8f1c-eb11-a813-000d3a9c7ffa,12
+Ethan Brooks,Renee Lo,9c3f73c9-e41e-eb11-a814-000d3a9c7ff2,13
+Peyton Davis,Angel Brown,8601e902-ed1e-eb11-a814-000d3a9c7ff2,14
+Peyton Davis,Archie Boyle,3f35dcad-e51e-eb11-a814-000d3a9c7ff2,15
+Peyton Davis,Hollie Rees,6687c12b-f11e-eb11-a814-000d3a9c7ff2,16
+Peyton Davis,Jennifer Wilkins,41b682bd-e41e-eb11-a814-000d3a9c7ff2,17
+Peyton Davis,Jordan Williams,42ded114-ed1e-eb11-a814-000d3a9c7ff2,18
+Peyton Davis,Mia Steele,fcc9d114-ed1e-eb11-a814-000d3a9c7ff2,19
+Peyton Davis,Riley Johnson,ec7e43ee-f11e-eb11-a814-000d3a9c7ff2,20

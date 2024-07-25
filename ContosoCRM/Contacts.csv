@@ -1,4 +1,4 @@
-ContactSeq,ContactID,Contact,FirstName,LastName,AccountSeq,Job Title,Street,City,State or Province,Postal Code,Country,Latitude,Longitude,Phone
+ContactSeq,ContactID,Contact,FirstName,LastName,AccountSeq,Job_Title,Street,City,StateorProvince,PostalCode,Country,Latitude,Longitude,Phone
 1000,95b19680-1946-4655-b19d-fa68cc4a491d,Jacqueline Penella,Jacqueline,Penella,1047,Pharmacist,87841 Sloan Way,Tucson,AZ,85715,United States,32.2519,-110.82,520-970-5533
 1001,48985a27-bc10-4308-8cc0-18da73854fc4,Clo Brixey,Clo,Brixey,1023,Senior Editor,8 Coleman Point,Sioux Falls,SD,57198,United States,43.6746,-96.7913,605-344-1216
 1002,8363f7b4-976d-4104-9848-acf10dde13f8,Yuma Arnaudi,Yuma,Arnaudi,1056,Tax Accountant,95 Melvin Pass,Boise,ID,83711,United States,43.4599,-116.244,208-934-3938

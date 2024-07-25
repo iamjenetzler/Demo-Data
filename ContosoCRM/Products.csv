@@ -1,31 +1,30 @@
-ProductSeq,SKU,Category,Type,Product,RRP,Product LOB,Distribution%2,DistributionAccumulation3,Factor,MinOppValue,MaxOppValue
-1,ER-06-8GB-167,Device,E-reader,"E-reader Standard 6"" 8 GB 167 ppi",79.99,Standard,1,#REF!,5," $2,000 "," $3,500 "
-2,ER-07-8GB-167,Device,E-reader,"E-reader Diamond 7"" 8 GB 167 ppi",99.99,Diamond,2,#REF!,9," $2,500 "," $4,000 "
-3,ER-07-16GB-167,Device,E-reader,"E-reader Diamond 7"" 16 GB 167 ppi",129.99,Diamond,1,#REF!,7," $1,000 "," $1,500 "
-4,ER-08-32GB-167,Device,E-reader,"E-reader Platinum 8"" 32 GB 167 ppi",249.99,Platinum,2,#REF!,9, $100 ," $1,000 "
-5,ER-08-64GB-167,Device,E-reader,"E-reader Platinum 8"" 64 GB 167 ppi",299.99,Platinum,3,#REF!,3, $500 ," $3,000 "
-6,ER-08-64GB-300,Device,E-reader,"E-reader Platinum 8"" 64 GB 300 ppi",349.99,Platinum,1,#REF!,10," $1,000 "," $3,000 "
-7,PN-01,Accessory,Pen,E-reader pen,79.99,Platinum,4,#REF!,15," $1,000 "," $5,000 "
-8,CV-06-BL,Accessory,Cover,"Black cover 6""",29.99,Standard,2,#REF!,5," $2,500 "," $4,000 "
-9,CV-07-BL,Accessory,Cover,"Black cover 7""",29.99,Diamond,1,#REF!,10, $500 ," $5,000 "
-10,CV-08-BL,Accessory,Cover,"Black cover 8""",29.99,Platinum,2,#REF!,9," $2,000 "," $5,000 "
-11,CV-06-TL,Accessory,Cover,"Teal cover 6""",29.99,Standard,2,#REF!,5,,
-12,CV-07-TL,Accessory,Cover,"Teal cover 7""",29.99,Diamond,2,#REF!,9,,
-13,CV-08-TL,Accessory,Cover,"Teal cover 8""",29.99,Platinum,1,#REF!,7,,
-14,CV-06-BG,Accessory,Cover,"Burgundy cover 6""",29.99,Standard,1,#REF!,9,,
-15,CV-07-BG,Accessory,Cover,"Burgundy cover 7""",29.99,Diamond,2,#REF!,3,,
-16,CV-08-BG,Accessory,Cover,"Burgundy cover 8""",29.99,Platinum,4,#REF!,10,,
-17,CV-06-SB,Accessory,Cover,"Sky blue cover 6""",29.99,Standard,5,#REF!,15,,
-18,CV-07-SB,Accessory,Cover,"Sky blue cover 7""",29.99,Diamond,3,#REF!,5,,
-19,CV-08-SB,Accessory,Cover,"Sky blue cover 8""",29.99,Platinum,6,#REF!,10,,
-20,CV-06-HD,Accessory,Cover,"Honeydew cover 6""",29.99,Standard,3,#REF!,5,,
-21,CV-07-HD,Accessory,Cover,"Honeydew cover 7""",29.99,Diamond,2,#REF!,9,,
-22,CV-08-HD,Accessory,Cover,"Honeydew cover 8""",29.99,Platinum,1,#REF!,7,,
-23,CV-08-CLPY,Accessory,Cover,"Theme cover 8"" Microsoft Clippy",39.99,Platinum,4,#REF!,9,,
-24,CV-08-LEOP,Accessory,Cover,"Theme cover 8"" Leopard",39.99,Platinum,9,#REF!,3,,
-25,CV-08-ZB,Accessory,Cover,"Theme cover 8"" Zebra",39.99,Platinum,5,#REF!,10,,
-26,CV-08-TGR,Accessory,Cover,"Theme cover 8"" Tiger",39.99,Platinum,15,#REF!,15,,
-27,AD-01,Accessory,Adapter,Travel USB power adaptor,19.99,N/A,10,#REF!,5,,
-28,CL-06,Accessory,Cloth,"Microfiber cleaning cloth, 6 pack",9.99,N/A,5,#REF!,10,,
-29,CL-12,Accessory,Cloth,"Microfiber cleaning cloth, 12 pack",14.99,N/A,1,#REF!,9,,
-,,,,,,,,,,,
+ProductSeq,SKU,Product_Category,Type,Product,RRP,Product_LOB
+1,ER-06-8GB-167,Device,E-reader,"E-reader Standard 6"" 8 GB 167 ppi",79.99,Standard
+2,ER-07-8GB-167,Device,E-reader,"E-reader Diamond 7"" 8 GB 167 ppi",99.99,Diamond
+3,ER-07-16GB-167,Device,E-reader,"E-reader Diamond 7"" 16 GB 167 ppi",129.99,Diamond
+4,ER-08-32GB-167,Device,E-reader,"E-reader Platinum 8"" 32 GB 167 ppi",249.99,Platinum
+5,ER-08-64GB-167,Device,E-reader,"E-reader Platinum 8"" 64 GB 167 ppi",299.99,Platinum
+6,ER-08-64GB-300,Device,E-reader,"E-reader Platinum 8"" 64 GB 300 ppi",349.99,Platinum
+7,PN-01,Accessory,Pen,E-reader pen,79.99,Platinum
+8,CV-06-BL,Accessory,Cover,"Black cover 6""",29.99,Standard
+9,CV-07-BL,Accessory,Cover,"Black cover 7""",29.99,Diamond
+10,CV-08-BL,Accessory,Cover,"Black cover 8""",29.99,Platinum
+11,CV-06-TL,Accessory,Cover,"Teal cover 6""",29.99,Standard
+12,CV-07-TL,Accessory,Cover,"Teal cover 7""",29.99,Diamond
+13,CV-08-TL,Accessory,Cover,"Teal cover 8""",29.99,Platinum
+14,CV-06-BG,Accessory,Cover,"Burgundy cover 6""",29.99,Standard
+15,CV-07-BG,Accessory,Cover,"Burgundy cover 7""",29.99,Diamond
+16,CV-08-BG,Accessory,Cover,"Burgundy cover 8""",29.99,Platinum
+17,CV-06-SB,Accessory,Cover,"Sky blue cover 6""",29.99,Standard
+18,CV-07-SB,Accessory,Cover,"Sky blue cover 7""",29.99,Diamond
+19,CV-08-SB,Accessory,Cover,"Sky blue cover 8""",29.99,Platinum
+20,CV-06-HD,Accessory,Cover,"Honeydew cover 6""",29.99,Standard
+21,CV-07-HD,Accessory,Cover,"Honeydew cover 7""",29.99,Diamond
+22,CV-08-HD,Accessory,Cover,"Honeydew cover 8""",29.99,Platinum
+23,CV-08-CLPY,Accessory,Cover,"Theme cover 8"" Microsoft Clippy",39.99,Platinum
+24,CV-08-LEOP,Accessory,Cover,"Theme cover 8"" Leopard",39.99,Platinum
+25,CV-08-ZB,Accessory,Cover,"Theme cover 8"" Zebra",39.99,Platinum
+26,CV-08-TGR,Accessory,Cover,"Theme cover 8"" Tiger",39.99,Platinum
+27,AD-01,Accessory,Adapter,Travel USB power adaptor,19.99,N/A
+28,CL-06,Accessory,Cloth,"Microfiber cleaning cloth, 6 pack",9.99,N/A
+29,CL-12,Accessory,Cloth,"Microfiber cleaning cloth, 12 pack",14.99,N/A
