@@ -1,0 +1,6 @@
+FactInventory.csv filter=lfs diff=lfs merge=lfs -text
+FactFactOnlineSales.csv filter=lfs diff=lfs merge=lfs -text
+FactSales.csv filter=lfs diff=lfs merge=lfs -text
+FactSalesQuota.csv filter=lfs diff=lfs merge=lfs -text
+FactStrategyPlan.csv filter=lfs diff=lfs merge=lfs -text
+FactOnlineSales.csv filter=lfs diff=lfs merge=lfs -text

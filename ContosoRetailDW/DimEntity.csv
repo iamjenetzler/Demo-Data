@@ -1,0 +1,422 @@
+EntityKey,ParentEntityKey,ParentEntityLabel,EntityName,EntityDescription,EntityType,StartDate,Status
+1,1,North America,Contoso North America,Contoso North America,Group,1996-07-31 00:00:00.000,Current
+2,2,Europe,Contoso Europe,Contoso Europe,Group,1997-02-26 00:00:00.000,Current
+3,3,Asia,Contoso Asia,Contoso Asia,Group,1997-12-12 00:00:00.000,Current
+4,1,North America,Contoso United States,Contoso United States,Country/Region,1998-01-05 00:00:00.000,Current
+5,2,Europe,Contoso UK,Contoso UK,Country/Region,2000-06-30 00:00:00.000,Current
+6,2,Europe,Contoso France,Contoso France,Country/Region,1998-01-11 00:00:00.000,Current
+7,2,Europe,Contoso Italy,Contoso Italy,Country/Region,1998-01-20 00:00:00.000,Current
+8,2,Europe,Contoso Germany,Contoso Germany,Country/Region,1999-08-16 00:00:00.000,Current
+9,2,Europe,Contoso the Netherlands,Contoso the Netherlands,Country/Region,1998-01-26 00:00:00.000,Current
+10,2,Europe,Contoso Denmark,Contoso Denmark,Country/Region,1998-02-06 00:00:00.000,Current
+11,2,Europe,Contoso Sweden,Contoso Sweden,Country/Region,1998-02-06 00:00:00.000,Current
+12,2,Europe,Contoso Spain,Contoso Spain,Country/Region,1998-02-07 00:00:00.000,Current
+13,2,Europe,Contoso Slovenia,Contoso Slovenia,Country/Region,1998-02-24 00:00:00.000,Current
+14,2,Europe,Contoso Romania,Contoso Romania,Country/Region,1998-03-03 00:00:00.000,Current
+15,1,North America,Contoso Canada,Contoso Canada,Country/Region,1999-01-07 00:00:00.000,Current
+16,2,Europe,Contoso Poland,Contoso Poland,Country/Region,1998-03-11 00:00:00.000,Current
+17,2,Europe,Contoso Malta,Contoso Malta,Country/Region,1998-03-23 00:00:00.000,Current
+18,2,Europe,Contoso Ireland,Contoso Ireland,Country/Region,1998-03-30 00:00:00.000,Current
+19,2,Europe,Contoso Greece,Contoso Greece,Country/Region,1998-04-11 00:00:00.000,Current
+20,3,Asia,Contoso Singapore,Contoso Singapore,Country/Region,1998-04-18 00:00:00.000,Current
+21,3,Asia,Contoso India,Contoso India,Country/Region,1998-04-29 00:00:00.000,Current
+22,3,Asia,Contoso Bhutan,Contoso Bhutan,Country/Region,1999-01-02 00:00:00.000,Current
+23,3,Asia,Contoso China,Contoso China,Country/Region,1999-01-02 00:00:00.000,Current
+24,3,Asia,Contoso Iran,Contoso Iran,Country/Region,1999-01-03 00:00:00.000,Current
+25,3,Asia,Contoso Syria,Contoso Syria,Country/Region,1999-01-03 00:00:00.000,Current
+26,3,Asia,Contoso Thailand,Contoso Thailand,Country/Region,1999-01-03 00:00:00.000,Current
+27,2,Europe,Contoso Russia,Contoso Russia,Country/Region,1999-01-04 00:00:00.000,Current
+28,3,Asia,Contoso Turkmenistan,Contoso Turkmenistan,Country/Region,1999-01-05 00:00:00.000,Current
+29,3,Asia,Contoso Pakistan,Contoso Pakistan,Country/Region,1999-01-05 00:00:00.000,Current
+30,3,Asia,Contoso Japan,Contoso Japan,Country/Region,1999-01-05 00:00:00.000,Current
+31,3,Asia,Contoso South Korea,Contoso South Korea,Country/Region,1999-01-06 00:00:00.000,Current
+32,3,Asia,Contoso Kyrgyzstan,Contoso Kyrgyzstan,Country/Region,1999-01-07 00:00:00.000,Current
+33,4,United States,Contoso Washington,Contoso Washington,State,1999-01-07 00:00:00.000,Current
+34,4,United States,Contoso Colorado,Contoso Colorado,State,1999-01-08 00:00:00.000,Current
+35,4,United States,Contoso Wisconsin,Contoso Wisconsin,State,1999-01-08 00:00:00.000,Current
+36,4,United States,Contoso Texas,Contoso Texas,State,1999-01-08 00:00:00.000,Current
+37,4,United States,Contoso Florida,Contoso Florida,State,1999-01-08 00:00:00.000,Current
+38,4,United States,Contoso New York,Contoso New York,State,1999-01-08 00:00:00.000,Current
+39,4,United States,Contoso New Jersey,Contoso New Jersey,State,1999-01-09 00:00:00.000,Current
+40,4,United States,Contoso Massachusetts,Contoso Massachusetts,State,1999-01-09 00:00:00.000,Current
+41,4,United States,Contoso Maine,Contoso Maine,State,1999-01-10 00:00:00.000,Current
+42,4,United States,Contoso Connecticut,Contoso Connecticut,State,1999-01-10 00:00:00.000,Current
+43,4,United States,Contoso Virginia,Contoso Virginia,State,1999-01-10 00:00:00.000,Current
+44,4,United States,Contoso South Carolina,Contoso South Carolina,State,1999-01-12 00:00:00.000,Current
+45,4,United States,Contoso Maryland,Contoso Maryland,State,1999-01-13 00:00:00.000,Current
+46,5,UK,Contoso England,Contoso England,State,1999-01-13 00:00:00.000,Current
+47,5,UK,Contoso Scotland,Contoso Scotland,State,1999-01-13 00:00:00.000,Current
+48,23,China,Contoso Xinjiang,Contoso Xinjiang,State,1999-01-13 00:00:00.000,Current
+49,23,China,Contoso Shanghai,Contoso Shanghai,State,1999-01-14 00:00:00.000,Current
+50,23,China,Contoso Beijing,Contoso Beijing,State,1999-01-15 00:00:00.000,Current
+51,23,China,Contoso Guangdong,Contoso Guangdong,State,1999-01-15 00:00:00.000,Current
+52,3,Asia,Contoso Australia,Contoso Australia,Country/Region,1999-01-07 00:00:00.000,Current
+53,2,Europe,Contoso Switzerland,Contoso Switzerland,Country/Region,1998-04-11 00:00:00.000,Current
+54,4,United States,Contoso Alaska,Contoso Alaska,State,1999-01-13 00:00:00.000,Current
+58,4,United States,Contoso Catalog Store,Contoso Catalog Store,Store,2009-08-07 15:45:27.550,Current
+59,4,United States,Contoso North America Online Store,Contoso North America Online Store,Store,2009-08-07 15:43:15.797,Current
+60,15,Canada,Contoso Ontario,Contoso Ontario,State,1999-02-14 00:00:00.000,Current
+61,15,Canada,Contoso Quebec,Contoso Quebec,State,1999-02-14 00:00:00.000,Current
+62,15,Canada,Contoso British Columbia,Contoso British Columbia,State,1999-02-14 00:00:00.000,Current
+63,15,Canada,Contoso Alberta,Contoso Alberta,State,1999-02-14 00:00:00.000,Current
+571,6,France ,Contoso Ile-del-France,Contoso Ile-del-France,State,1999-01-15 00:00:00.000,Current
+572,6,France,Contoso Provence-Alpes-Cote d'Azur,Contoso Provence-Alpes-Cote d'Azur,State,1999-01-16 00:00:00.000,Current
+573,6,France,Contoso Rhone-Alpes,Contoso Rhone-Alpes,State,1999-01-16 00:00:00.000,Current
+574,6,France,Contoso Midi-Pyrenees,Contoso Midi-Pyrenees,State,1999-01-16 00:00:00.000,Current
+575,6,France,Contoso Provence-Alpes-Côte d'Azur,Contoso Provence-Alpes-Côte d'Azur,State,1999-01-17 00:00:00.000,Current
+576,6,France,Contoso Pays de la Loire,Contoso Pays de la Loire,State,1999-01-17 00:00:00.000,Current
+577,6,France,Contoso Alsace,Contoso Alsace,State,1999-01-18 00:00:00.000,Current
+578,7,Italy ,Contoso Roma,Contoso Roma,State,1999-01-18 00:00:00.000,Current
+579,7,Italy ,Contoso Venice,Contoso Venice,State,1999-01-18 00:00:00.000,Current
+580,7,Italy ,Contoso Province of Florence,Contoso Province of Florence,State,1999-01-19 00:00:00.000,Current
+581,7,Italy ,Contoso Province of Turin,Contoso Province of Turin,State,1999-01-20 00:00:00.000,Current
+582,7,Italy ,Contoso Lombardy,Contoso Lombardy,State,1999-01-20 00:00:00.000,Current
+583,7,Italy ,Contoso Campania,Contoso Campania,State,1999-01-22 00:00:00.000,Current
+584,8,Germany,Contoso Berlin,Contoso Berlin,State,1999-01-23 00:00:00.000,Current
+587,8,Germany,Contoso Hesse,Contoso Hesse,State,1999-01-24 00:00:00.000,Current
+590,8,Germany,Contoso North Rhine-Westphalia,Contoso North Rhine-Westphalia,State,1999-01-26 00:00:00.000,Current
+592,8,Germany,Contoso Rhineland-Palatinate,Contoso Rhineland-Palatinate,State,1999-01-26 00:00:00.000,Current
+594,8,Germany,Contoso Bavaria,Contoso Bavaria,State,1999-01-27 00:00:00.000,Current
+596,9,Contoso the Netherlands,Contoso North Holland,Contoso North Holland,State,1999-01-28 00:00:00.000,Current
+597,10,Denmark,Contoso Copenhagen,Contoso Copenhagen,State,1999-01-28 00:00:00.000,Current
+598,11,Sweden ,Contoso Stockholm,Contoso Stockholm,State,1999-01-29 00:00:00.000,Current
+599,12,Spain,Contoso Madrid,Contoso Madrid,State,1999-01-29 00:00:00.000,Current
+600,13,Slovenia,Contoso Ljubljana,Contoso Ljubljana,State,1999-01-30 00:00:00.000,Current
+601,14,Romania ,Contoso Bucharest,Contoso Bucharest,State,1999-01-30 00:00:00.000,Current
+602,53,Berne ,Contoso Bern,Contoso Bern,State,1999-02-01 00:00:00.000,Current
+603,16,Poland ,Contoso Warszawa,Contoso Warszawa,State,1999-02-02 00:00:00.000,Current
+604,17,Malta,Contoso Valletta,Contoso Valletta,State,1999-02-02 00:00:00.000,Current
+605,18,Ireland ,Contoso Leinster,Contoso Leinster,State,1999-02-03 00:00:00.000,Current
+606,19,Greece ,Contoso Central Greece and Evvoia,Contoso Central Greece and Evvoia,State,1999-02-03 00:00:00.000,Current
+607,20,Singapore ,Contoso Singapore,Contoso Singapore,State,1999-02-03 00:00:00.000,Current
+608,21,India ,Contoso India Capital Territory,National Capital Territory of Delhi,State,1999-02-04 00:00:00.000,Current
+609,21,India,Contoso Maharashtra,Contoso Maharashtra,State,1999-02-04 00:00:00.000,Current
+610,21,India,Contoso West Bengal,Contoso West Bengal,State,1999-02-05 00:00:00.000,Current
+611,22,Bhutan,Contoso Thimphu District,Contoso Thimphu District,State,1999-02-05 00:00:00.000,Current
+612,23,China,Contoso Hong Kong,Contoso Hong Kong,State,1999-02-05 00:00:00.000,Current
+613,24,Iran ,Contoso Tehran,Contoso Tehran,State,1999-02-05 00:00:00.000,Current
+614,25,Syria ,Contoso Damascus,Contoso Damascus,State,1999-02-06 00:00:00.000,Current
+615,26,Thailand,Contoso Bangkok,Contoso Bangkok,State,1999-02-07 00:00:00.000,Current
+616,27,Russia,Contoso Central Federal District,Contoso Central Federal District,State,1999-02-07 00:00:00.000,Current
+617,28,Turkmenistan ,Contoso Ahal Province,Contoso Ahal Province,State,1999-02-08 00:00:00.000,Current
+618,29,Pakistan,Contoso Islamabad Capital Territory,Contoso Islamabad Capital Territory,State,2001-10-02 00:00:00.000,Current
+620,30,Japan,Contoso Kanto,Contoso Kanto,State,1999-02-09 00:00:00.000,Current
+625,30,Japan,Contoso Hokkaido,Contoso Hokkaido,State,1999-02-13 00:00:00.000,Current
+626,30,Japan,Contoso Kansai,Contoso Kansai,State,1999-02-13 00:00:00.000,Current
+627,30,Japan,Contoso Chubu,Contoso Chubu,State,1999-02-13 00:00:00.000,Current
+628,31,South Korea,Contoso Seoul,Contoso Seoul,State,1999-02-13 00:00:00.000,Current
+629,31,South Korea,Contoso Busan,Contoso Busan,State,1999-02-13 00:00:00.000,Current
+630,32,Kyrgyzstan,Contoso Chui Province,Contoso Chui Province,State,1999-02-14 00:00:00.000,Current
+631,52,Armenia,Contoso Armenia,Contoso Armenia,State,1999-02-14 00:00:00.000,Current
+632,52,Australia,Contoso New South Wales,Contoso New South Wales,State,1999-02-14 00:00:00.000,Current
+633,52,Australia,Contoso Australian Capital Territory,Contoso Australian Capital Territory,State,1999-02-14 00:00:00.000,Current
+635,33,Washington,Contoso Seattle No.1 Store,Contoso Seattle No.1 Store,Store,1999-02-17 00:00:00.000,Current
+636,33,Washington,Contoso Seattle No.2 Store,Contoso Seattle No.2 Store,Store,1999-02-17 00:00:00.000,Current
+638,33,Washington,Contoso Bellevue Store,Contoso Bellevue Store,Store,1999-02-18 00:00:00.000,Current
+639,33,Washington,Contoso Redmond Store,Contoso Redmond Store,Store,1999-02-18 00:00:00.000,Current
+640,33,Washington,Contoso Yakima Store,Contoso Yakima Store,Store,1999-02-19 00:00:00.000,Current
+641,33,Washington,Contoso Granger Store,Contoso Granger Store,Store,1999-02-19 00:00:00.000,Current
+642,33,Washington,Contoso Sunnyside Store,Contoso Sunnyside Store,Store,1999-02-21 00:00:00.000,Current
+643,33,Washington,Contoso Toppenish Store,Contoso Toppenish Store,Store,1999-02-21 00:00:00.000,Current
+644,33,Washington,Contoso Wapato Store,Contoso Wapato Store,Store,1999-02-22 00:00:00.000,Current
+645,33,Washington,Contoso Cle Elum Store,Contoso Cle Elum Store,Store,1999-02-22 00:00:00.000,Current
+646,33,Washington,Contoso North Bend Store,Contoso North Bend Store,Store,1999-02-22 00:00:00.000,Current
+647,33,Washington,Contoso Snoqualmie Store,Contoso Snoqualmie Store,Store,1999-02-23 00:00:00.000,Current
+648,33,Washington,Contoso Fall City Store,Contoso Fall City Store,Store,1999-02-23 00:00:00.000,Current
+649,33,Washington,Contoso Renton Store,Contoso Renton Store,Store,1999-02-23 00:00:00.000,Current
+650,33,Washington,Contoso Everett Store,Contoso Everett Store,Store,1999-02-23 00:00:00.000,Current
+651,33,Washington,Contoso Spokane Store,Contoso Spokane Store,Store,1999-02-24 00:00:00.000,Current
+652,33,Washington,Contoso Veradale Store,Contoso Veradale Store,Store,1999-02-25 00:00:00.000,Current
+653,33,Washington,Contoso Cheney Store,Contoso Cheney Store,Store,1999-02-26 00:00:00.000,Current
+654,34,Colorado,Contoso Englewood Store,Contoso Englewood Store,Store,1999-02-27 00:00:00.000,Current
+655,34,Colorado,Contoso Wheat Ridge Store,Contoso Wheat Ridge Store,Store,1999-02-27 00:00:00.000,Current
+656,34,Colorado,Contoso Westminster Store,Contoso Westminster Store,Store,1999-02-28 00:00:00.000,Current
+657,34,Colorado,Contoso Grand Junction Store,Contoso Grand Junction Store,Store,1999-02-28 00:00:00.000,Current
+658,34,Colorado,Contoso New Castle Store,Contoso New Castle Store,Store,1999-02-28 00:00:00.000,Current
+659,34,Colorado,Contoso Greeley No.1 Store,Contoso Greeley No.1 Store,Store,1999-03-02 00:00:00.000,Current
+660,34,Colorado,Contoso Loveland Store,Contoso Loveland Store,Store,1999-03-02 00:00:00.000,Current
+661,34,Colorado,Contoso Lafayette Store,Contoso Lafayette Store,Store,1999-03-03 00:00:00.000,Current
+662,34,Colorado,Contoso Castle Rock Store,Contoso Castle Rock Store,Store,1999-03-04 00:00:00.000,Current
+663,34,Colorado,Contoso Sedalia Store,Contoso Sedalia Store,Store,2003-12-15 00:00:00.000,Current
+664,34,Colorado,Contoso Fort Collins Store,Contoso Fort Collins Store,Store,1999-03-04 00:00:00.000,Current
+665,34,Colorado,Contoso Greeley No.2 Store,Contoso Greeley No.2 Store,Store,1999-03-04 00:00:00.000,Current
+666,34,Colorado,Contoso Milliken Store,Contoso Milliken Store,Store,1999-03-05 00:00:00.000,Current
+667,34,Colorado,Contoso Berthoud Store,Contoso Berthoud Store,Store,1999-03-06 00:00:00.000,Current
+668,34,Colorado,Contoso Denver No.1 Store,Contoso Denver No.1 Store,Store,1999-03-06 00:00:00.000,Current
+669,34,Colorado,Contoso Denver No.2 Store,Contoso Denver No.2 Store,Store,1999-03-06 00:00:00.000,Current
+670,34,Colorado,Contoso Denver No.3 Store,Contoso Denver No.3 Store,Store,1999-03-07 00:00:00.000,Current
+671,34,Colorado,Contoso Boulder Store,Contoso Boulder Store,Store,1999-03-07 00:00:00.000,Current
+672,34,Colorado,Contoso Thornton Store,Contoso Thornton Store,Store,1999-03-07 00:00:00.000,Current
+673,34,Colorado,Contoso Littleton Store,Contoso Littleton Store,Store,1999-03-08 00:00:00.000,Current
+674,34,Colorado,Contoso Aurora Store,Contoso Aurora Store,Store,1999-03-08 00:00:00.000,Current
+675,34,Colorado,Contoso Parker Store,Contoso Parker Store,Store,1999-03-09 00:00:00.000,Current
+676,35,Wisconsin,Contoso Green Bay Store,Contoso Green Bay Store,Store,1999-03-09 00:00:00.000,Current
+677,35,Wisconsin,Contoso Appleton Store,Contoso Appleton Store,Store,1999-03-10 00:00:00.000,Current
+678,35,Wisconsin,Contoso Menasha Store,Contoso Menasha Store,Store,1999-03-12 00:00:00.000,Current
+679,35,Wisconsin,Contoso Oshkosh Store,Contoso Oshkosh Store,Store,1999-03-12 00:00:00.000,Current
+680,35,Wisconsin,Contoso Fond du Lac Store,Contoso Fond du Lac Store,Store,1999-03-12 00:00:00.000,Current
+681,35,Wisconsin,Contoso Milwaukee No.1 Store,Contoso Milwaukee No.1 Store,Store,1999-03-12 00:00:00.000,Current
+682,35,Wisconsin,Contoso Milwaukee No.2 Store,Contoso Milwaukee No.2 Store,Store,1999-03-12 00:00:00.000,Current
+683,35,Wisconsin,Contoso Milwaukee No.3 Store,Contoso Milwaukee No.3 Store,Store,1999-03-13 00:00:00.000,Current
+684,35,Wisconsin,Contoso Waukesha No.1 Store,Contoso Waukesha No.1 Store,Store,1999-03-13 00:00:00.000,Current
+685,35,Wisconsin,Contoso Racine  No.1 Store,Contoso Racine  No.1 Store,Store,1999-03-14 00:00:00.000,Current
+686,35,Wisconsin,Contoso Burlington Store,Contoso Burlington Store,Store,1999-03-14 00:00:00.000,Current
+687,35,Wisconsin,Contoso East Troy Store,Contoso East Troy Store,Store,1999-03-14 00:00:00.000,Current
+688,35,Wisconsin,Contoso Waukesha No.2 Store,Contoso Waukesha No.2 Store,Store,1999-03-15 00:00:00.000,Current
+689,45,Maryland,Contoso Germantown Store,Contoso Germantown Store,Store,1999-03-15 00:00:00.000,Current
+691,35,Wisconsin,Contoso Port Washington Store,Contoso Port Washington Store,Store,1999-03-17 00:00:00.000,Current
+692,35,Wisconsin,Contoso Sheboygan Store,Contoso Sheboygan Store,Store,1999-03-17 00:00:00.000,Current
+693,35,Wisconsin,Contoso Manitowoc Store,Contoso Manitowoc Store,Store,1999-03-17 00:00:00.000,Current
+694,35,Wisconsin,Contoso Madison Store,Contoso Madison Store,Store,1999-03-18 00:00:00.000,Current
+695,35,Wisconsin,Contoso Oregon Store,Contoso Oregon Store,Store,1999-03-19 00:00:00.000,Current
+696,35,Wisconsin,Contoso Stoughton Store,Contoso Stoughton Store,Store,1999-03-19 00:00:00.000,Current
+697,35,Wisconsin,Contoso Edgerton Store,Contoso Edgerton Store,Store,1999-03-19 00:00:00.000,Current
+698,35,Wisconsin,Contoso Fort Atkinson Store,Contoso Fort Atkinson Store,Store,1999-03-20 00:00:00.000,Current
+699,35,Wisconsin,Contoso Racine  No.2 Store,Contoso Racine  No.2 Store,Store,1999-03-20 00:00:00.000,Current
+700,36,Texas,Contoso Houston No.1 Store,Contoso Houston No.1 Store,Store,1999-03-20 00:00:00.000,Current
+701,36,Texas,Contoso Houston No.2 Store,Contoso Houston No.2 Store,Store,1999-03-22 00:00:00.000,Current
+702,36,Texas,Contoso Houston No.3 Store,Contoso Houston No.3 Store,Store,1999-03-22 00:00:00.000,Current
+703,36,Texas,Contoso Houston No.4 Store,Contoso Houston No.4 Store,Store,1999-03-23 00:00:00.000,Current
+704,36,Texas,Contoso Midland Store,Contoso Midland Store,Store,1999-03-24 00:00:00.000,Current
+705,36,Texas,Contoso Russellville Store,Contoso Russellville Store,Store,1999-03-24 00:00:00.000,Current
+706,36,Texas,Contoso Minden Store,Contoso Minden Store,Store,1999-03-25 00:00:00.000,Current
+707,36,Texas,Contoso Shreveport Store,Contoso Shreveport Store,Store,1999-03-25 00:00:00.000,Current
+708,36,Texas,Contoso Marshall Store,Contoso Marshall Store,Store,1999-03-26 00:00:00.000,Current
+709,36,Texas,Contoso Longview Store,Contoso Longview Store,Store,1999-03-26 00:00:00.000,Current
+710,36,Texas,Contoso Beaumont No.1 Store,Contoso Beaumont No.1 Store,Store,1999-03-27 00:00:00.000,Current
+711,36,Texas,Contoso Orange Store,Contoso Orange Store,Store,1999-03-27 00:00:00.000,Current
+712,36,Texas,Contoso Beaumont No.2 Store,Contoso Beaumont No.2 Store,Store,1999-03-27 00:00:00.000,Current
+713,36,Texas,Contoso Baytown Store,Contoso Baytown Store,Store,1999-03-28 00:00:00.000,Current
+714,36,Texas,Contoso La Porte Store,Contoso La Porte Store,Store,1999-03-29 00:00:00.000,Current
+715,36,Texas,Contoso Bacliff Store,Contoso Bacliff Store,Store,1999-03-29 00:00:00.000,Current
+716,36,Texas,Contoso Texas City Store,Contoso Texas City Store,Store,1999-03-30 00:00:00.000,Current
+717,36,Texas,Contoso Pasadena Store,Contoso Pasadena Store,Store,1999-03-30 00:00:00.000,Current
+718,36,Texas,Contoso Humble Store,Contoso Humble Store,Store,1999-03-30 00:00:00.000,Current
+719,36,Texas,Contoso Spring Store,Contoso Spring Store,Store,1999-03-30 00:00:00.000,Current
+720,36,Texas,Contoso Austin Store,Contoso Austin Store,Store,1999-03-30 00:00:00.000,Current
+721,36,Texas,Contoso San Antonio Store,Contoso San Antonio Store,Store,1999-04-01 00:00:00.000,Current
+722,36,Texas,Contoso Cedar Park Store,Contoso Cedar Park Store,Store,1999-04-01 00:00:00.000,Current
+723,36,Texas,Contoso Round Rock Store,Contoso Round Rock Store,Store,1999-04-01 00:00:00.000,Current
+724,36,Texas,Contoso Dallas Store,Contoso Dallas Store,Store,1999-04-02 00:00:00.000,Current
+725,36,Texas,Contoso Georgetown Store,Contoso Georgetown Store,Store,1999-04-03 00:00:00.000,Current
+726,36,Texas,Contoso Hillsboro Store,Contoso Hillsboro Store,Store,1999-04-03 00:00:00.000,Current
+727,36,Texas,Contoso Arlington Store,Contoso Arlington Store,Store,1999-04-04 00:00:00.000,Current
+728,36,Texas,Contoso Grand Prairie Store,Contoso Grand Prairie Store,Store,1999-04-04 00:00:00.000,Current
+729,36,Texas,Contoso Desoto Store,Contoso Desoto Store,Store,1999-04-04 00:00:00.000,Current
+730,36,Texas,Contoso Richardson Store,Contoso Richardson Store,Store,1999-04-05 00:00:00.000,Current
+731,36,Texas,Contoso Lewisville Store,Contoso Lewisville Store,Store,1999-04-06 00:00:00.000,Current
+732,36,Texas,Contoso Denton Store,Contoso Denton Store,Store,1999-04-06 00:00:00.000,Current
+733,36,Texas,Contoso Fort Worth Store,Contoso Fort Worth Store,Store,1999-04-06 00:00:00.000,Current
+734,36,Texas,Contoso Plano Store,Contoso Plano Store,Store,1999-04-07 00:00:00.000,Current
+735,37,Florida,Contoso Miami No.1 Store,Contoso Miami No.1 Store,Store,1999-04-07 00:00:00.000,Current
+736,37,Florida,Contoso Miami No.2 Store,Contoso Miami No.2 Store,Store,1999-04-08 00:00:00.000,Current
+737,37,Florida,Contoso Jacksonville Store,Contoso Jacksonville Store,Store,1999-04-08 00:00:00.000,Current
+738,37,Florida,Contoso Tallahassee No.1 Store,Contoso Tallahassee No.1 Store,Store,1999-04-09 00:00:00.000,Current
+739,37,Florida,Contoso Tallahassee No.2 Store,Contoso Tallahassee No.2 Store,Store,1999-04-09 00:00:00.000,Current
+741,37,Florida,Contoso Sebring Store,Contoso Sebring Store,Store,2000-01-03 00:00:00.000,Current
+742,37,Florida,Contoso Lakeland Store,Contoso Lakeland Store,Store,2000-01-04 00:00:00.000,Current
+743,37,Florida,Contoso Fort Lauderdale Store,Contoso Fort Lauderdale Store,Store,2000-01-07 00:00:00.000,Current
+744,37,Florida,Contoso Orlando Store,Contoso Orlando Store,Store,2000-01-12 00:00:00.000,Current
+745,37,Florida,Contoso Tampa Store,Contoso Tampa Store,Store,2000-01-12 00:00:00.000,Current
+746,37,Florida,Contoso Key West Store,Contoso Key West Store,Store,2000-01-18 00:00:00.000,Current
+747,37,Florida,Contoso Cape Canaveral Store,Contoso Cape Canaveral Store,Store,2000-01-19 00:00:00.000,Current
+748,38,New York,Contoso Albany Store,Contoso Albany Store,Store,2000-01-22 00:00:00.000,Current
+749,38,New York,Contoso New York No.1 Store,Contoso New York No.1 Store,Store,2000-01-23 00:00:00.000,Current
+750,38,New York,Contoso Rochester No.1 Store,Contoso Rochester No.1 Store,Store,2000-01-26 00:00:00.000,Current
+751,38,New York,Contoso New York No.2 Store,Contoso New York No.2 Store,Store,2000-01-26 00:00:00.000,Current
+752,38,New York,Contoso Syracuse Store,Contoso Syracuse Store,Store,2000-01-30 00:00:00.000,Current
+753,38,New York,Contoso Buffalo Store,Contoso Buffalo Store,Store,2000-02-02 00:00:00.000,Current
+754,38,New York,Contoso Plattsburgh Store,Contoso Plattsburgh Store,Store,2000-02-05 00:00:00.000,Current
+755,38,New York,Contoso Brooklyn Store,Contoso Brooklyn Store,Store,2000-02-07 00:00:00.000,Current
+756,38,New York,Contoso Oswego Store,Contoso Oswego Store,Store,2000-02-12 00:00:00.000,Current
+757,38,New York,Contoso Ithaca Store,Contoso Ithaca Store,Store,2000-02-13 00:00:00.000,Current
+758,38,New York,Contoso Rochester No.2 Store,Contoso Rochester No.2 Store,Store,2000-02-17 00:00:00.000,Current
+759,38,New York,Contoso Queens Store,Contoso Queens Store,Store,2000-02-18 00:00:00.000,Current
+760,38,New York,Contoso Elmira Store,Contoso Elmira Store,Store,2000-02-23 00:00:00.000,Current
+761,38,New York,Contoso Poestenkill Store,Contoso Poestenkill Store,Store,2000-02-24 00:00:00.000,Current
+762,39,New Jersey,Contoso Trenton No.1 Store,Contoso Trenton No.1 Store,Store,2000-02-25 00:00:00.000,Current
+763,39,New Jersey,Contoso Trenton No.2 Store,Contoso Trenton No.2 Store,Store,2000-02-25 00:00:00.000,Current
+764,39,New Jersey,Contoso Newark No.1 Store,Contoso Newark No.1 Store,Store,2000-02-28 00:00:00.000,Current
+765,39,New Jersey,Contoso Newark No.2 Store,Contoso Newark No.2 Store,Store,2000-02-28 00:00:00.000,Current
+766,39,New Jersey,Contoso Jersey City Store,Contoso Jersey City Store,Store,2000-03-01 00:00:00.000,Current
+767,39,New Jersey,Contoso Paterson Store,Contoso Paterson Store,Store,2000-03-03 00:00:00.000,Current
+768,39,New Jersey,Contoso Clifton Store,Contoso Clifton Store,Store,2000-03-04 00:00:00.000,Current
+769,39,New Jersey,Contoso East Orange Store,Contoso East Orange Store,Store,2000-03-08 00:00:00.000,Current
+770,39,New Jersey,Contoso Passaic Store,Contoso Passaic Store,Store,2000-03-08 00:00:00.000,Current
+771,39,New Jersey,Contoso Bayonne Store,Contoso Bayonne Store,Store,2000-03-11 00:00:00.000,Current
+772,39,New Jersey,Contoso Vineland Store,Contoso Vineland Store,Store,2000-03-15 00:00:00.000,Current
+773,39,New Jersey,Contoso New Brunswick Store,Contoso New Brunswick Store,Store,2000-03-16 00:00:00.000,Current
+774,39,New Jersey,Contoso Hackensack Store,Contoso Hackensack Store,Store,2000-03-19 00:00:00.000,Current
+775,39,New Jersey,Contoso Atlantic City Store,Contoso Atlantic City Store,Store,2000-03-23 00:00:00.000,Current
+776,39,New Jersey,Contoso Montclair Store,Contoso Montclair Store,Store,2000-03-26 00:00:00.000,Current
+777,39,New Jersey,Contoso Hoboken Store,Contoso Hoboken Store,Store,2000-03-26 00:00:00.000,Current
+778,39,New Jersey,Contoso Morristown Store,Contoso Morristown Store,Store,2000-03-26 00:00:00.000,Current
+779,39,New Jersey,Contoso Cape May Store,Contoso Cape May Store,Store,2000-03-30 00:00:00.000,Current
+780,40,Massachusetts,Contoso Boston Store,Contoso Boston Store,Store,2000-04-03 00:00:00.000,Current
+781,40,Massachusetts,Contoso Worcester No.1 Store,Contoso Worcester No.1 Store,Store,2000-04-04 00:00:00.000,Current
+782,40,Massachusetts,Contoso Worcester No.2 Store,Contoso Worcester No.2 Store,Store,2000-04-05 00:00:00.000,Current
+783,40,Massachusetts,Contoso New Bedford Store,Contoso New Bedford Store,Store,2000-04-07 00:00:00.000,Current
+784,40,Massachusetts,Contoso Attleboro Store,Contoso Attleboro Store,Store,2000-04-09 00:00:00.000,Current
+785,40,Massachusetts,Contoso Lowell Store,Contoso Lowell Store,Store,2000-04-10 00:00:00.000,Current
+786,40,Massachusetts,Contoso Leominster Store,Contoso Leominster Store,Store,2001-01-05 00:00:00.000,Current
+787,40,Massachusetts,Contoso Hingham Store,Contoso Hingham Store,Store,2001-01-06 00:00:00.000,Current
+788,40,Massachusetts,Contoso Quincy Store,Contoso Quincy Store,Store,2001-01-23 00:00:00.000,Current
+789,40,Massachusetts,Contoso Framingham Store,Contoso Framingham Store,Store,2001-01-25 00:00:00.000,Current
+790,40,Massachusetts,Contoso Cambridge Store,Contoso Cambridge Store,Store,2001-01-30 00:00:00.000,Current
+791,40,Massachusetts,Contoso Somerville Store,Contoso Somerville Store,Store,2001-02-04 00:00:00.000,Current
+792,40,Massachusetts,Contoso Haverhill Store,Contoso Haverhill Store,Store,2001-02-07 00:00:00.000,Current
+793,40,Massachusetts,Contoso Lynn Store,Contoso Lynn Store,Store,2001-02-18 00:00:00.000,Current
+794,40,Massachusetts,Contoso Northampton Store,Contoso Northampton Store,Store,2001-03-10 00:00:00.000,Current
+795,40,Massachusetts,Contoso Holyoke Store,Contoso Holyoke Store,Store,2001-03-17 00:00:00.000,Current
+796,40,Massachusetts,Contoso Pittsfield Store,Contoso Pittsfield Store,Store,2001-03-18 00:00:00.000,Current
+797,40,Massachusetts,Contoso Falmouth Store,Contoso Falmouth Store,Store,2001-03-28 00:00:00.000,Current
+798,40,Massachusetts,Contoso Provincetown Store,Contoso Provincetown Store,Store,2001-08-31 00:00:00.000,Current
+799,40,Massachusetts,Contoso Nantucket Store,Contoso Nantucket Store,Store,2002-08-16 00:00:00.000,Current
+800,41,Maine,Contoso Bangor Store,Contoso Bangor Store,Store,2001-07-01 00:00:00.000,Current
+801,41,Maine,Contoso Bar Harbor Store,Contoso Bar Harbor Store,Store,2001-07-01 00:00:00.000,Current
+802,41,Maine,Contoso Kennebunkport Store,Contoso Kennebunkport Store,Store,2001-07-01 00:00:00.000,Current
+803,41,Maine,Contoso Lewiston Store,Contoso Lewiston Store,Store,2001-07-01 00:00:00.000,Current
+804,41,Maine,Contoso Orono Store,Contoso Orono Store,Store,2001-07-01 00:00:00.000,Current
+805,41,Maine,Contoso South Portland Store,Contoso South Portland Store,Store,2001-07-01 00:00:00.000,Current
+806,42,Connecticut,Contoso Hartford Store,Contoso Hartford Store,Store,2001-07-01 00:00:00.000,Current
+807,42,Connecticut,Contoso Bridgeport Store,Contoso Bridgeport Store,Store,2001-07-01 00:00:00.000,Current
+808,42,Connecticut,Contoso Waterbury Store,Contoso Waterbury Store,Store,2001-07-01 00:00:00.000,Current
+809,42,Connecticut,Contoso Old Saybrook Store,Contoso Old Saybrook Store,Store,2002-05-18 00:00:00.000,Current
+810,42,Connecticut,Contoso Darien Store,Contoso Darien Store,Store,2002-07-01 00:00:00.000,Current
+811,42,Connecticut,Contoso New Haven Store,Contoso New Haven Store,Store,2002-07-01 00:00:00.000,Current
+812,42,Connecticut,Contoso Litchfield County Store,Contoso Litchfield County Store,Store,2002-11-01 00:00:00.000,Current
+813,42,Connecticut,Contoso New London Store,Contoso New London Store,Store,2003-04-15 00:00:00.000,Current
+814,43,Virginia,Contoso Norfolk Store,Contoso Norfolk Store,Store,2003-07-01 00:00:00.000,Current
+815,43,Virginia,Contoso Virginia Beach Store,Contoso Virginia Beach Store,Store,2003-07-01 00:00:00.000,Current
+816,43,Virginia,Contoso Winchester Store,Contoso Winchester Store,Store,2002-11-01 00:00:00.000,Current
+817,54,Alaska,Contoso Anchorage Store,Contoso Anchorage Store,Store,2003-04-15 00:00:00.000,Current
+818,43,Virginia,Contoso Alexandria Store,Contoso Alexandria Store,Store,2003-07-01 00:00:00.000,Current
+819,43,Virginia,Contoso Roanoke Store,Contoso Roanoke Store,Store,2003-07-01 00:00:00.000,Current
+820,43,Virginia,Contoso Charlottesville Store,Contoso Charlottesville Store,Store,2002-11-01 00:00:00.000,Current
+821,43,Virginia,Contoso Fredericksburg Store,Contoso Fredericksburg Store,Store,2003-04-15 00:00:00.000,Current
+822,43,Virginia,Contoso Martinsville Store,Contoso Martinsville Store,Store,2003-07-01 00:00:00.000,Current
+823,44,South Carolina,Contoso Greenville Store,Contoso Greenville Store,Store,2003-07-01 00:00:00.000,Current
+824,44,South Carolina,Contoso Charleston Store,Contoso Charleston Store,Store,2002-11-01 00:00:00.000,Current
+825,45,Maryland,Contoso Annapolis Store,Contoso Annapolis Store,Store,2003-04-15 00:00:00.000,Current
+826,45,Maryland,Contoso Baltimore Store,Contoso Baltimore Store,Store,2003-07-01 00:00:00.000,Current
+827,45,Maryland,Contoso Howard Store,Contoso Howard Store,Store,2003-07-01 00:00:00.000,Current
+828,45,Maryland,Contoso Ridgely Store,Contoso Ridgely Store,Store,2002-11-01 00:00:00.000,Current
+829,45,Maryland,Contoso Queen Anne's County Store,Contoso Queen Anne's County Store,Store,2003-04-15 00:00:00.000,Current
+830,45,Maryland,Contoso Parkville Store,Contoso Parkville Store,Store,2003-07-01 00:00:00.000,Current
+831,45,Maryland,Contoso Back River Store,Contoso Back River Store,Store,2003-07-01 00:00:00.000,Current
+832,45,Maryland,Contoso North Harford Store,Contoso North Harford Store,Store,2002-11-01 00:00:00.000,Current
+833,46,England ,Contoso London Store,Contoso London Store,Store,2003-04-15 00:00:00.000,Current
+834,47,Scotland,Contoso Edinburgh Store,Contoso Edinburgh Store,Store,2003-07-01 00:00:00.000,Current
+835,47,Scotland,Contoso Glasgow Store,Contoso Glasgow Store,Store,2003-07-01 00:00:00.000,Current
+836,46,England ,Contoso York Store,Contoso York Store,Store,2002-11-01 00:00:00.000,Current
+837,46,England ,Contoso Carlisle Store,Contoso Carlisle Store,Store,2003-04-15 00:00:00.000,Current
+838,46,England ,Contoso Manchester Store,Contoso Manchester Store,Store,2003-07-01 00:00:00.000,Current
+839,46,England ,Contoso Lancashire Store,Contoso Lancashire Store,Store,2003-07-01 00:00:00.000,Current
+840,46,England ,Contoso West Yorkshire Store,Contoso West Yorkshire Store,Store,2002-11-01 00:00:00.000,Current
+841,46,England ,Contoso Baildon Store,Contoso Baildon Store,Store,2003-04-15 00:00:00.000,Current
+842,46,England ,Contoso Cheshire Store,Contoso Cheshire Store,Store,2003-07-01 00:00:00.000,Current
+843,46,England ,Contoso Stockport Store,Contoso Stockport Store,Store,2003-07-01 00:00:00.000,Current
+844,46,England ,Contoso Liverpool Store,Contoso Liverpool Store,Store,2002-11-01 00:00:00.000,Current
+845,46,England ,Contoso Knotty Ash Store,Contoso Knotty Ash Store,Store,2003-04-15 00:00:00.000,Current
+846,46,England ,Contoso Leeds Store,Contoso Leeds Store,Store,2003-07-01 00:00:00.000,Current
+847,571,Ile-del-France,Contoso Paris Store,Contoso Paris Store,Store,2003-07-01 00:00:00.000,Current
+848,607,Singapore,Contoso Singapore Store,Contoso Singapore Store,Store,2002-11-01 00:00:00.000,Current
+849,49,Shanghai,Contoso Shanghai No.1 Store,Contoso Shanghai No.1 Store,Store,2003-04-15 00:00:00.000,Current
+850,48,Xinjiang,Contoso Urumqi Store,Contoso Urumqi Store,Store,2003-07-01 00:00:00.000,Current
+851,50,Beijing,Contoso Beijing Store,Contoso Beijing Store,Store,2003-07-01 00:00:00.000,Current
+852,51,Guangdong,Contoso Guangzhou Store,Contoso Guangzhou Store,Store,2002-11-01 00:00:00.000,Current
+853,49,Shanghai,Contoso Shanghai No.2 Store,Contoso Shanghai No.2 Store,Store,2003-04-15 00:00:00.000,Current
+854,572,Provence-Alpes-Cote d'Azur,Contoso Marseille Store,Contoso Marseille Store,Store,2003-07-01 00:00:00.000,Current
+855,573,Rhone-Alpes ,Contoso Lyon Store,Contoso Lyon Store,Store,2003-07-01 00:00:00.000,Current
+856,574,Midi-Pyrenees,Contoso Toulouse Store,Contoso Toulouse Store,Store,2002-11-01 00:00:00.000,Current
+857,575,Provence-Alpes-Côte d'Azur,Contoso Nice Store,Contoso Nice Store,Store,2003-04-15 00:00:00.000,Current
+858,576,Pays de la Loire,Contoso Nantes Store,Contoso Nantes Store,Store,2003-07-01 00:00:00.000,Current
+859,577,Alsace,Contoso Strasbourg Store,Contoso Strasbourg Store,Store,2003-07-01 00:00:00.000,Current
+860,578,Roma,Contoso Roma Store,Contoso Roma Store,Store,2002-11-01 00:00:00.000,Current
+861,579,Venice,Contoso Venezia Store,Contoso Venezia Store,Store,2003-04-15 00:00:00.000,Current
+862,580,Province of Florence,Contoso Firenze Store,Contoso Firenze Store,Store,2003-07-01 00:00:00.000,Current
+863,581,Province of Turin,Contoso Torino Store,Contoso Torino Store,Store,2003-07-01 00:00:00.000,Current
+864,582,Lombardy,Contoso Milan Store,Contoso Milan Store,Store,2002-11-01 00:00:00.000,Current
+865,37,Florida,Contoso Naples Store,Contoso Naples Store,Store,2003-04-15 00:00:00.000,Current
+866,584,Berlin,Contoso Berlin Store,Contoso Berlin Store,Store,2003-07-01 00:00:00.000,Current
+868,590,Nordrhein-Westfalen,Contoso koln No.2 Store,Contoso koln No.2 Store,Store,2002-11-01 00:00:00.000,Current
+869,587,Hesse,Contoso Hofheim Store,Contoso Hofheim Store,Store,2003-04-15 00:00:00.000,Current
+870,590,North Rhine-Westphalia,Contoso koln No.1 Store,Contoso koln No.1 Store,Store,2003-07-01 00:00:00.000,Current
+871,592,Rhineland-Palatinate,Contoso Landstuhl Store,Contoso Landstuhl Store,Store,2003-07-01 00:00:00.000,Current
+872,590,Nordrhein-Westfalen,Contoso Dusseldorf Store,Contoso Dusseldorf Store,Store,2002-11-01 00:00:00.000,Current
+873,592,Rhineland-Palatinate,Contoso Ramstein Store,Contoso Ramstein Store,Store,2003-04-15 00:00:00.000,Current
+874,592,Rhineland-Palatinate,Contoso Baumholder Store,Contoso Baumholder Store,Store,2003-07-01 00:00:00.000,Current
+875,594,Bavaria,Contoso Giebelstadt Store,Contoso Giebelstadt Store,Store,2003-07-01 00:00:00.000,Current
+876,594,Bavaria,Contoso obamberg Store,Contoso obamberg Store,Store,2002-11-01 00:00:00.000,Current
+877,594,Bavaria,Contoso Munich Store,Contoso Munich Store,Store,2003-04-15 00:00:00.000,Current
+878,596,North Holland,Contoso Amsterdam Store,Contoso Amsterdam Store,Store,2003-07-01 00:00:00.000,Current
+879,597,Copenhagen,Contoso Copenhagen Store,Contoso Copenhagen Store,Store,2003-07-01 00:00:00.000,Current
+880,598,Stockholm,Contoso Stockholm Store,Contoso Stockholm Store,Store,2002-11-01 00:00:00.000,Current
+881,599,Madrid,Contoso Madrid Store,Contoso Madrid Store,Store,2003-04-15 00:00:00.000,Current
+882,600,Ljubljana,Contoso Ljubljana Store,Contoso Ljubljana Store,Store,2003-07-01 00:00:00.000,Current
+883,601,Bucharest,Contoso Bucharest Store,Contoso Bucharest Store,Store,2003-07-01 00:00:00.000,Current
+884,602,Bern,Contoso Berne Store,Contoso Berne Store,Store,2002-11-01 00:00:00.000,Current
+885,603,Warszawa,Contoso Warsaw Store,Contoso Warsaw Store,Store,2003-04-15 00:00:00.000,Current
+886,604,Valletta,Contoso Valletta Store,Contoso Valletta Store,Store,2003-07-01 00:00:00.000,Current
+887,605,Leinster,Contoso Dublin Store,Contoso Dublin Store,Store,2003-07-01 00:00:00.000,Current
+888,606,Central Greece and Evvoia,Contoso Athens Store,Contoso Athens Store,Store,2002-11-01 00:00:00.000,Current
+889,633,Australian Capital Territory,Contoso Canberra Store,Contoso Canberra Store,Store,2002-11-01 00:00:00.000,Current
+890,632,New South Wales,Contoso Sydney No.1 Store,Contoso Sydney No.1 Store,Store,2003-04-15 00:00:00.000,Current
+891,631,Armenia,Contoso Yerevan Store,Contoso Yerevan Store,Store,2003-07-01 00:00:00.000,Current
+892,608,National Capital Territory of Delhi,Contoso New Delhi Store,Contoso New Delhi Store,Store,2003-07-01 00:00:00.000,Current
+893,609,Maharashtra,Contoso Mumbai Store,Contoso Mumbai Store,Store,2002-11-01 00:00:00.000,Current
+894,610,West Bengal,Contoso Kolkata Store,Contoso Kolkata Store,Store,2003-04-15 00:00:00.000,Current
+895,611,Thimphu District,Contoso Thimphu No.1 Store,Contoso Thimphu No.1 Store,Store,2003-07-01 00:00:00.000,Current
+896,612,Hong Kong,Contoso Hong Kong No.1 Store,Contoso Hong Kong No.1 Store,Store,2003-07-01 00:00:00.000,Current
+897,613,Tehran,Contoso Tehran No.1 Store,Contoso Tehran No.1 Store,Store,2002-11-01 00:00:00.000,Current
+898,614,Damascus,Contoso Damascus No.1 Store,Contoso Damascus No.1 Store,Store,2003-04-15 00:00:00.000,Current
+899,615,Bangkok,Contoso Bangkok No.1 Store,Contoso Bangkok No.1 Store,Store,2003-07-01 00:00:00.000,Current
+900,616,Central Federal District,Contoso Moscow  No.1 Store,Contoso Moscow  No.1 Store,Store,2003-07-01 00:00:00.000,Current
+901,617,Ahal Province,Contoso Ashgabat No.1 Store,Contoso Ashgabat No.1 Store,Store,2002-11-01 00:00:00.000,Current
+902,618,Islamabad Capital Territory,Contoso Islamabad No.1 Store,Contoso Islamabad No.1 Store,Store,2003-04-15 00:00:00.000,Current
+904,620,Kanto,Contoso Tokyo No.1 Store,Contoso Tokyo No.1 Store,Store,2003-07-01 00:00:00.000,Current
+905,620,Kanto,Contoso Tokyo No.2 Store,Contoso Tokyo No.2 Store,Store,2002-11-01 00:00:00.000,Current
+906,620,Kanto,Contoso Yokohama Store,Contoso Yokohama Store,Store,2003-04-15 00:00:00.000,Current
+907,626,Kansai,Contoso Osaka No.1 Store,Contoso Osaka No.1 Store,Store,2003-07-01 00:00:00.000,Current
+908,627,Chubu,Contoso Nagoya Store,Contoso Nagoya Store,Store,2003-07-01 00:00:00.000,Current
+909,625,Hokkaido,Contoso Sapporo Store,Contoso Sapporo Store,Store,2002-11-01 00:00:00.000,Current
+910,626,Kansai,Contoso Kyoto Store,Contoso Kyoto Store,Store,2003-04-15 00:00:00.000,Current
+911,628,Seoul,Contoso Seoul Store,Contoso Seoul Store,Store,2003-07-01 00:00:00.000,Current
+912,629,Busan,Contoso Busan Store,Contoso Busan Store,Store,2003-07-01 00:00:00.000,Current
+913,630,Chui Province,Contoso Bishkek Store,Contoso Bishkek Store,Store,2002-11-01 00:00:00.000,Current
+914,60,Ontario,Contoso Ottawa No.1 Store,Contoso Ottawa No.1 Store,Store,2002-11-01 00:00:00.000,Current
+915,60,Ontario,Contoso Ottawa No.2 Store,Contoso Ottawa No.2 Store,Store,2002-11-01 00:00:00.000,Current
+916,60,Ontario,Contoso Toronto No.1 Store,Contoso Toronto No.1 Store,Store,2002-11-01 00:00:00.000,Current
+917,60,Ontario,Contoso Toronto No.2 Store,Contoso Toronto No.2 Store,Store,2002-11-01 00:00:00.000,Current
+918,60,Ontario,Contoso Toronto No.3 Store,Contoso Toronto No.3 Store,Store,2002-11-01 00:00:00.000,Current
+919,61,Quebec,Contoso Montreal No.1 Store,Contoso Montreal No.1 Store,Store,2002-11-01 00:00:00.000,Current
+920,61,Quebec,Contoso Montreal No.2 Store,Contoso Montreal No.2 Store,Store,2002-11-01 00:00:00.000,Current
+921,62,British Columbia,Contoso Vancouver  No.1 Store,Contoso Vancouver  No.1 Store,Store,2002-11-01 00:00:00.000,Current
+922,62,British Columbia,Contoso Vancouver  No.2 Store,Contoso Vancouver  No.2 Store,Store,2002-11-01 00:00:00.000,Current
+923,63,Alberta,Contoso Calgary  Store,Contoso Calgary  Store,Store,2002-11-01 00:00:00.000,Current
+924,611,Thimphu District,Contoso Thimphu No.2 Store,Contoso Thimphu No.2 Store,Store,2003-07-01 00:00:00.000,Current
+925,612,Hong Kong,Contoso Hong Kong No.2 Store,Contoso Hong Kong No.2 Store,Store,2003-07-01 00:00:00.000,Current
+926,613,Tehran,Contoso Tehran No.2 Store,Contoso Tehran No.2 Store,Store,2003-07-01 00:00:00.000,Current
+927,614,Damascus,Contoso Damascus No.2 Store,Contoso Damascus No.2 Store,Store,2003-07-01 00:00:00.000,Current
+928,615,Bangkok,Contoso Bangkok No.2 Store,Contoso Bangkok No.2 Store,Store,2003-07-01 00:00:00.000,Current
+929,616,Central Federal District,Contoso Moscow  No.2 Store,Contoso Moscow  No.2 Store,Store,2003-07-01 00:00:00.000,Current
+930,617,Ahal Province,Contoso Ashgabat  No.2 Store,Contoso Ashgabat  No.2 Store,Store,2003-07-01 00:00:00.000,Current
+931,618,Islamabad Capital Territory,Contoso Islamabad  No.2 Store,Contoso Islamabad  No.2 Store,Store,2003-07-01 00:00:00.000,Current
+932,632,New South Wales,Contoso Sydney  No.2 Store,Contoso Sydney  No.2 Store,Store,2003-07-01 00:00:00.000,Current
+933,626,Kansai,Contoso Osaka No.2 Store,Contoso Osaka No.2 Store,Store,2003-07-01 00:00:00.000,Current
+934,33,Washington,Contoso Kennewick Store,Contoso Kennewick Store,Store,2003-07-01 00:00:00.000,Current
+935,940,Taiwan,Contoso Taipei  Store,Contoso Taipei  Store,Store,2003-07-01 00:00:00.000,Current
+936,938,Lisboa Region,Contoso Lisbon Store,Contoso Lisbon Store,Store,2003-07-01 00:00:00.000,Current
+937,3,Asia,Contoso Taiwan,Contoso Taiwan,Country/Region,2003-07-01 00:00:00.000,Current
+938,939,Portugal,Contoso Lisboa Region,Contoso Lisboa Region,State,2003-07-01 00:00:00.000,Current
+939,2,Europe,Contoso Portugal,Contoso Portugal,Country/Region,2003-07-01 00:00:00.000,Current
+940,937,Taiwan,Contoso Taiwan,Contoso Taiwan,State,2003-07-01 00:00:00.000,Current
+941,27,Russia,Contoso Northwestern,Contoso Northwestern,State,2003-07-01 00:00:00.000,Current
+942,941,Northwestern,Contoso Saint Petersburg Store,Contoso Saint Petersburg Store,Store,2003-07-01 00:00:00.000,Current
+943,27,Russia,Contoso Nizhny Novgorod Oblast,Contoso Nizhny Novgorod Oblast,State,2003-07-01 00:00:00.000,Current
+944,943,Nizhny Novgorod Oblast,Contoso Nizhny Novgorod Store,Contoso Nizhny Novgorod Store,Store,2003-07-01 00:00:00.000,Current
+945,8,Germany,Contoso Europe Online Store,Contoso Europe Online Store,Store,2008-11-01 00:00:00.000,Current
+946,23,China,Contoso Asia Online Store,Contoso Asia Online Store,Store,2008-11-01 00:00:00.000,Current
+947,4,United States,Contoso North America Reseller,Contoso North America Reseller,Store,2009-11-01 00:00:00.000,Current
+948,6,France,Contoso Europe Reseller,Contoso Europe Reseller,Store,2009-11-01 00:00:00.000,Current
+949,23,China,Contoso Asia Reseller,Contoso Asia Reseller,Store,2009-11-01 00:00:00.000,Current

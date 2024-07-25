@@ -1,0 +1,304 @@
+OutageKey,OutageName,OutageType,OutageTypeDescription,OutageSubType
+293,Hardware,Hardware upgrade,hardware upgrade,Hardware version upgrade
+294,Change Management,Hardware,Hardware,Array Controller
+295,Hardware,Router,Crash,Core dump
+296,Change Management,Hardware,Hardware,Memory
+297,Hardware,Hard drive,Hard drive,Drive Partition Full
+298,Change Management,Hardware,Hardware,Drive Bay
+299,Network Device,Router,Router,Crash
+300,Change Management,Hardware,Hardware,Hard Drive
+301,Security,User Account,User Account,Disable
+302,Network Device,Hub,Crash,Port Shut
+303,Hardware,Hard drive,Hard drive,Drive Partition Full
+304,Network Device,Hub,Hub,Gigabit link
+305,Hardware,Power Supply,Power Supply,Failed
+306,Hardware,Processor,Processor,Failed
+307,Network Device,Hub,Crash,Port shut
+308,Security,Group,Group,Creation
+309,Security,Service Account,Service Account,Creation
+310,Security,User Account,User Account,Creation
+311,Change Management,Hardware,Hardware,Drive Bay
+312,Security,Physical Access,Physical Access,General
+313,Security,Physical Access,Physical Access,General
+314,Request,Asset Management,Asset Management,Hardware Transport
+315,Security,Physical Access,Physical Access,General
+316,Network Device,Router,Router,Gigabit link
+317,Network Device,Hub,Hub,Gigabit link
+318,Request,Asset Management,Asset Management,Hardware Procurement
+319,Request,Asset Management,Asset Management,Hardware Procurement
+320,Change Management,Hardware,Hardware,Memory
+321,Request,Asset Management,Asset Management,Hardware Receiving
+322,Request,Asset Management,Asset Management,Hardware Transport
+323,Change Management,Software,Software,Install/Update Software
+324,Investigation,Software,Software,Install/Update Software
+325,Hardware,MISC,MISC,IP Temp
+326,Request,Knowledge Base,Knowledge Base,Modification
+327,Hardware,Cable,Cable,Upgrade
+328,Move/Add/Change,Hardware,Hardware,Power Supply
+329,Hardware,Drive Bay,Drive Bay,Upgrade
+330,Move/Add/Change,Hardware,Hardware,Memory
+331,Hardware,Memory,Memory,Upgrade
+332,Security,Violation,Violation,Vulnerability
+333,Hardware,Memory,Memory,Upgrade
+334,Move/Add/Change,Hardware,Hardware,Other
+335,Hardware,NIC,NIC,Upgrade
+336,Security,Violation,Violation,Vulnerability
+337,Software,Patch,Patch,Windows Security Update
+338,Hardware,NIC,NIC,Upgrade
+339,Move/Add/Change,Configuration Management,Configuration Management,Server Rename
+340,Change Management,Software,Software,Install/Update Software
+341,Investigation,Software,Software,Install/Update Software
+342,Move/Add/Change,Configuration Management,Configuration Management,IPAK/Hotfix/Security
+343,Move/Add/Change,Hardware,Hardware,Other
+344,Move/Add/Change,Hardware,Hardware,Cabling
+345,Deployment,Decommission NetDevice,Decommission NetDevice,Network Configuration
+346,Move/Add/Change,Hardware,Hardware,Memory
+347,Deployment,Decommission NetDevice,Decommission NetDevice,Decommission
+348,Move/Add/Change,Hardware,Hardware,Power Supply
+349,Deployment,Decommission NetDevice,Decommission NetDevice,Receiving
+350,Deployment,Decommission NetDevice,Decommission NetDevice,Network Update
+351,Deployment,Decommission Server,Decommission Server,Disable Backups
+352,Move/Add/Change,Hardware,Hardware,Hard Drive
+353,Deployment,Move NetDevice,Move NetDevice,Deactivate Network Configuration
+354,Network,Hardware,Hardware,CSM
+355,Deployment,Move NetDevice,Move NetDevice,Decommission
+356,Network,Hardware,Hardware,Other
+357,Deployment,Move NetDevice,Move NetDevice,RAP
+358,Move/Add/Change,Hardware,Hardware,Fan
+359,Deployment,Move NetDevice,Move NetDevice,Activate Network Configuration
+360,Deployment,Move NetDevice,Move NetDevice,Network Update
+361,Incident,Hardware,Hardware,Array (RAID) Controller
+362,Deployment,New Server (Non-Standard),New Server (Non-Standard),Procurement
+363,Move/Add/Change,Hardware,Hardware,NIC
+364,Deployment,New Server (Non-Standard),New Server (Non-Standard),RAP
+365,Deployment,New Server (Non-Standard),New Server (Non-Standard),Receiving
+366,Move/Add/Change,Hardware,Hardware,Array (RAID) Controller
+367,Network,Hardware,Hardware,BigIP
+368,Move/Add/Change,Hardware,Hardware,Fiber Channel
+369,Move/Add/Change,Hardware,Hardware,Memory
+370,Move/Add/Change,Hardware,Hardware,Power Supply
+371,Incident,Hardware,Hardware,Cable
+372,Move/Add/Change,Hardware,Hardware,Power Supply
+373,Move/Add/Change,Hardware,Hardware,NIC
+374,Incident,Hardware,Hardware,Networking - NetScaler
+375,Network,Hardware,Hardware,Guard
+376,Incident,Hardware,Hardware,Battery
+377,Move/Add/Change,Hardware,Hardware,Memory
+378,Incident,Hardware,Hardware,Drive Bay
+379,Maintenance,Code Related,Code Related,Networking
+380,Incident,Hardware,Hardware,Processor
+381,Change/Maintenance,Hotfix,Hotfix,Client Driven
+382,Incident,Hardware,Hardware,SAN
+383,Move/Add/Change,Hardware,Hardware,NIC
+384,Incident,Hardware,Hardware,SAN Switch
+385,Incident,Hardware,Hardware,Tape Drive
+386,Maintenance,Code Related,Code Related,Networking
+387,Maintenance,Code Related,Code Related,Product Group
+388,Change/Maintenance,Configuration,Configuration,Compliance
+389,Change/Maintenance,Configuration,Configuration,Client Driven
+390,Maintenance,Code Related,Code Related,Security
+391,Change/Maintenance,Configuration,Configuration,Dependancy
+392,Change/Maintenance,Hotfix,Hotfix,Dependancy
+393,Network Capacity,Device,Device,Memory
+394,Network Configuration,Break-fix,Break-fix,Compatability
+395,Request,OS,OS,Drive Space
+396,Request,OS,OS,Performance Issues
+397,Network Capacity,Device,Device,Connection Rate
+398,Security,Violation,Violation,Vulnerability
+399,Security,Violation,Violation,Vulnerability
+400,Request,OS,OS,Reboot request
+401,Network Configuration,Break-fix,Break-fix,Expected Impact
+402,Request,OS,OS,Memory issue
+403,Network Configuration,Break-fix,Break-fix,Process
+404,Request,OS,OS,WMI
+405,Request,Network,Network,Configuring NLB
+406,Network Capacity,Device,Device,CPU
+407,Request,Network,Network,Network Connectivity Issues
+408,Request,Hardware Problems,Hardware Problems,Drive failures
+409,Network Capacity,Device,Device,Other Component
+410,Request,Hardware Problems,Hardware Problems,Power supply
+411,Incident,OS,OS,Performance Issues
+412,Network Capacity,Device,Device,Backplane/Device
+413,Incident,OS,OS,IIS issue
+414,Change/Maintenance,Hotfix,Hotfix,Client Driven
+415,Incident,OS,OS,Reboot Machine
+416,Network Capacity,Device,Device,IP Confliction
+417,Incident,OS,OS,Memory issue
+418,Network Configuration,Break-fix,Break-fix,Unexpected Impact
+419,Incident,OS,OS,WMI
+420,Request,Hardware Problems,Hardware Problems,Drive configuration
+421,Network Configuration,Break-fix,Break-fix,Human Error
+422,Security,Violation,Violation,Vulnerability
+423,Security,Violation,Violation,Vulnerability
+424,Network Configuration,Break-fix,Break-fix,Other
+425,Change/Maintenance,Hotfix,Hotfix,Compliance
+426,Network HW Failure-test,Network HW Failure-prop-test,Network HW Failure-prop-test,Network HW Failure-sub-test
+427,Maintenance,Unknown,Unknown,Vendor/External Partner
+428,Change/Maintenance,Configuration,Configuration,Compliance
+429,Change/Maintenance,Configuration,Configuration,Client Driven
+430,Change/Maintenance,Configuration,Configuration,Human Error
+431,Network Configuration,Break-fix,Break-fix,Tooling
+432,Change/Maintenance,Hotfix,Hotfix,Dependancy
+433,Change/Maintenance,Hotfix,Hotfix,Compliance
+434,Incident,Hardware,Hardware,EMU I/O Module
+435,Change Management,Software,Software,Install/Update Software
+436,HM-Network,Software,Software,Install/Update Software
+437,Investigation,Software,Software,Install/Update Software
+438,Incident,Hardware,Hardware,Fiber Channel
+439,Incident,Hardware,Hardware,Memory
+440,Incident,Hardware,Hardware,Motherboard
+441,Move/Add/Change,Network,Network,Install Network Device
+442,Incident,Hardware,Hardware,Fan
+443,Move/Add/Change,Network,Network,Rehome & Device Rename
+444,Incident,Hardware,Hardware,Hard Drive
+445,Move/Add/Change,Network,Network,Replace Device
+446,Move/Add/Change,Network,Network,Replace Device Component
+447,Deployment,New Server (Non-Standard),New Server (Non-Standard),RAC
+448,Deployment,New Server (Standard),New Server (Standard),Procurement
+449,Move/Add/Change,Configuration Management,Configuration Management,Add Account
+450,Deployment,New Server (Standard),New Server (Standard),Receiving
+451,Incident,Hardware,Hardware,Firmware (ROM)
+452,Deployment,New Server (Standard),New Server (Standard),RAC
+453,Deployment,RMA NetDevice,RMA NetDevice,Decommission
+454,Move/Add/Change,Network,Network,Rehome
+455,Deployment,RMA NetDevice,RMA NetDevice,Receiving
+456,Move/Add/Change,Configuration Management,Configuration Management,Other
+457,Move/Add/Change,Configuration Management,Configuration Management,Power Down Server
+458,Move/Add/Change,Configuration Management,Configuration Management,Upgrade OS
+459,Hardware,Other - Server,Other - Server,Upgrade
+460,Hardware,Other - Server,Other - Server,Upgrade
+461,Change Management,Network,Network,Re IP
+462,Change Management,Network,Network,Add new NIC
+463,Move/Add/Change,Configuration Management,Configuration Management,Upgrade System ROMS / Firmware
+464,Move/Add/Change,Hardware,Hardware,Hard Drive
+465,Change Management,Network,Network,Remove NIC
+466,Hardware,Other - Server,Other - Server,Upgrade
+467,Hardware,Power Supply,Power Supply,Upgrade
+468,Move/Add/Change,Configuration Management,Configuration Management,Add Account
+469,Hardware,Processor,Processor,Upgrade
+470,Hardware,Processor,Processor,Upgrade
+471,Request,Deployment,Deployment,Networking
+472,Security,Service Account,Service Account,Other
+473,Software,Product Application,Product Application,Other Issue
+474,Software,Product Application,Product Application,Other Issue
+475,Infrastructure,SMTP,SMTP,Outage
+476,Change Management,Software,Software,Install/Update Software
+477,HM-Network,Software,Software,Install/Update Software
+478,Investigation,Software,Software,Install/Update Software
+479,Network Device,Router,Router,Gigabit link
+480,Network Device,Local Director,Local Director,Proc utilization
+481,Security,User Account,User Account,Other
+482,Network Device,Netscalar,Netscalar,Proc utilization
+483,Security,User Account,User Account,Other
+484,Hardware,Hard drive,Hard drive,Upgrade
+485,Hardware,Memory,Memory,Upgrade
+486,Move/Add/Change,Configuration Management,Configuration Management,Server Rename
+487,Hardware,Tape drive,Tape drive,Failed
+488,Security,Physical Access,Physical Access,General
+489,Request,Documentation,Documentation,Hardware Config Documentation
+490,Security,Group,Group,Deletion
+491,Move/Add/Change,Configuration Management,Configuration Management,IPAK/Hotfix/Security
+492,Security,Service Account,Service Account,Deletion
+493,Move/Add/Change,Configuration Management,Configuration Management,Add Account
+494,Network Device,CSS,CSS,Connectivity
+495,Move/Add/Change,Configuration Management,Configuration Management,Other
+496,Security,User Account,User Account,Deletion
+497,Request,Change Management,Change Management,Design Change Request
+498,Security,Group,Group,Disable
+499,Network Device,Local Director,Local Director,Connectivity
+500,Security,Service Account,Service Account,Disable
+501,Network Device,Netscalar,Netscalar,Connectivity
+502,Incident,OS,OS,Reboot Incident
+503,Change Management,Software,Software,Domain
+504,Change Management,Software,Software,Hot Fix
+505,Incident,OS,OS,Performance Issues
+506,Incident,OS,OS,IIS issue
+507,Move/Add/Change,Network,Network,Cabling
+508,Incident,OS,OS,Memory Issue
+509,Incident,OS,OS,WMI
+510,Change Management,Software,Software,Release
+511,Hardware,Disk problems,Disk problems,no/limited disk space
+512,Hardware,Disk problems,Disk problems,RAID failure
+513,Change Management,Software,Software,QFE
+514,Hardware,Disk problems,Disk problems,SCSI failure
+515,Hardware,Disk problems,Disk problems,System disk failure
+516,Change Management,Software,Software,Service Pack
+517,Hardware,Disk problems,Disk problems,Tape drive failure
+518,Hardware,hardware upgrade,hardware upgrade,Hardware version rollback
+519,Change Management,Hardware,Hardware,NIC
+520,Network Device,Switch,Switch,VLAN configure
+521,Change Management,Software,Software,Server Rename
+522,Hardware,Disk problems,Disk problems,Disk server failure
+523,Change Management,Hardware,Hardware,Processor
+524,Incident,Hardware,Hardware,Power Supply
+525,Change Management,Software,Software,Base OS Build
+526,Change Management,Software,Software,IPAK
+527,Hardware,Disk problems,Disk problems,Data Disk failure
+528,Change Management,POS,Software,SQL
+529,Change Management,Software,Software,CRS
+530,Network Device,Switch,Switch,VLAN configure
+531,Change Management,Software,Software,Non-Standard Application
+532,Change Management,Software,Software,SMTP
+533,Deployment,RMA NetDevice,RMA NetDevice,Network Update
+534,Change Management,Software,Software,ROMs
+535,Change Management,Network,Network,Rehome
+536,Change Management,Network,Network,Re IP
+537,Change Management,Network,Network,Add new NIC
+538,Deployment,RMA NetDevice,RMA NetDevice,Network Configuration Deployment
+539,Change Management,Network,Network,Remove NIC
+540,Change Management,Network,Network,Rack/Cable Network gear
+541,Move/Add/Change,Backup & Restore,Backup & Restore,Tape Management
+542,Change Management,Network,Network,Label
+543,Change Management,Network,Network,Decommission
+544,Move/Add/Change,Configuration Management,Configuration Management,Server Rename
+545,Change Management,Domain Account,Domain Account,Create
+546,Change Management,Domain Account,Domain Account,Delete
+547,Move/Add/Change,Configuration Management,Configuration Management,IPAK/Hotfix/Security
+548,Change Management,Domain Account,Domain Account,Modify
+549,Change Management,Hardware,Hardware,Other
+550,Change Management,Network,Network,ACL
+551,Move/Add/Change,Configuration Management,Configuration Management,Other
+552,Change Management,Network,Network,DNS Addition/Removal
+553,Change Management,Software,Software,Code Revision
+554,Move/Add/Change,Configuration Management,Configuration Management,Add Account
+555,Security,Violation,Violation,Vulnerability
+556,Incident,Hardware,Hardware,Power Supply
+557,Move/Add/Change,Configuration Management,Configuration Management,Power Down Server
+558,Move/Add/Change,Configuration Management,Configuration Management,Rebuild
+559,Deployment,POS,Decommission Server,Disable SQL Monitoring
+560,Deployment,Decommission Server,Decommission Server,Transport
+561,Move/Add/Change,Hardware,Hardware,Other
+562,Move/Add/Change,Network,Network,Decom Device
+563,Deployment,Decommission Server,Decommission Server,Decommission
+564,Move/Add/Change,Network,Network,Install Device Component
+565,Incident,Hardware,Hardware,NIC
+566,Request,OS,OS,Memory issue
+567,Incident,Hardware,Hardware,Other - Server
+568,Security,Violation,Violation,Vulnerability
+569,Request,OS,OS,reboot request
+570,Network error,Hub,Crash,Network unavailable
+571,Network error,Server,Crash,Network unavailable
+572,Network error,Router,Crash,Network unavailable
+573,Network error,POS,Crash,Network unavailable
+574,OS Failed,Server,Crash,Virus
+575,OS Failed,Router,Crash,Upgrage OS
+576,OS Failed,POS,Crash,Upgrage OS
+577,Database Error,POS,Crash,Upgrage Software
+578,Database Error,POS,Crash,Restore Data
+579,Motherboard Failure,Server,Crash,Change new Server
+580,Motherboard Failure,POS,Crash,Change new POS
+581,Motherboard Failure,Router,Crash,Change new Router
+582,CPU Failure,Server,Crash,Change new CPU
+583,CPU Failure,POS,Crash,Change new CPU
+584,CPU Failure,Router,Crash,Change new CPU
+585,RAM Failure,Server,Crash,Change new RAM
+586,RAM Failure,POS,Crash,Change new RAM
+587,RAM Failure,Router,Crash,Change new RAM
+588,Disk Failure ,Server,Crash,Change new Disk
+589,Disk Failure ,POS,Crash,Change new Disk
+590,Disk Failure ,Router,Crash,Change new Disk
+591,Hub Power Down,Hub,Crash,Change Hub
+592,Network Adapter Failure,Server,Crash,Change Network Adapter
+593,Network Adapter Failure,Router,Crash,Change Network Adapter
+594,Network Adapter Failure,POS,Crash,Change Network Adapter
+595,Hub Port light is blinking,Hub,Crash,Change Hub

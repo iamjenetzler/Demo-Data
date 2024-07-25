@@ -1,0 +1,25 @@
+AccountKey,ParentAccountKey,AccountName,AccountDescription,AccountType,ValueType
+1,24.0,Profit and Loss after tax,Profit and Loss after tax,Income,Income
+2,24.0,Income,Income,Income,Income
+3,24.0,Expense,Expense,Expense,Expense
+4,2.0,Sale Revenue,Sale Revenue,Income,Income
+5,3.0,Cost of Goods Sold,Cost of Goods Sold,Expense,Expense
+6,3.0,"Selling, General & Administrative Expenses","Selling, General & Administrative Expenses",Expense,Expense
+7,6.0,Administration Expense,Administration Expense,Expense,Expense
+8,6.0,IT Cost,IT Cost,Expense,Expense
+9,6.0,Human Capital,Human Capital,Expense,Expense
+10,6.0,"Light, Heat, Communication Cost","Light, Heat, Communication Cost",Expense,Expense
+11,6.0,Property Costs,Property Costs,Expense,Expense
+12,6.0,Other Expenses,Other Expenses,Expense,Expense
+13,6.0,Marketing Cost,Marketing & Advertisement Cost,Expense,Expense
+14,13.0,Holiday Ad Cost,Holiday Ad Cost,Expense,Expense
+15,13.0,Spring Ad Cost,Spring Ad Cost,Expense,Expense
+16,13.0,Back-to-School Ad Cost,Back-to-School Ad Cost,Expense,Expense
+17,13.0,Business Ad Cost,Business Ad Cost,Expense,Expense
+18,13.0,Tax Time / Summer Ad Cost,Tax Time / Summer Ad Cost,Expense,Expense
+19,1.0,Taxation,Taxation,Taxation,Taxation
+20,14.0,Radio & TV,Holiday Ad Cost by Radio & TV,Expense,Expense
+21,14.0,Print,Holiday Ad Cost by Print,Expense,Expense
+22,14.0,Internet,Holiday Ad Cost by Internet,Expense,Expense
+23,14.0,Other,Holiday Ad Cost by Other,Expense,Expense
+24,1.0,Profit and Loss before tax,Profit and Loss before tax,Income,Income

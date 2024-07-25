@@ -1,0 +1,294 @@
+EmployeeKey,ParentEmployeeKey,FirstName,LastName,Title,HireDate,BirthDate,EmailAddress,Phone,EmergencyContactName,EmergencyContactPhone,Gender,PayFrequency,BaseRate,VacationHours,DepartmentName,StartDate,Status,SalaryStatus,IsSalesPerson,IsMarried
+1,18,Kim,Abercrombie,Sales Region Manager,1996-07-31,1972-05-15,guy1@contoso.com,320-555-0195,Hazem Abolrous,320-555-0195,Male,2,72.45,40,Production,1996-07-31,Current,Not Salaried,No,Yes
+2,18,Sagiv,Hadaya,Sales Region Manager,1997-02-26,1977-06-03,kevin0@contoso.com,150-555-0189,Kevin Cook,150-555-0189,Male,2,72.45,40,Marketing,1997-02-26,Current,Not Salaried,No,No
+3,18,Luka,Abrus,Sales Region Manager,1997-12-12,1964-12-13,roberto0@contoso.com,212-555-0187,Ahmad Abu-Dayah,212-555-0187,Male,2,72.45,40,Engineering,1997-12-12,Current,Salaried,No,Yes
+4,18,Kirk,Nason,Sales Region Manager,1998-01-05,1965-01-23,KirkNason@contoso.com,612-555-0100,Mrina Natarajan,612-555-0100,Male,2,72.45,40,Tool Design,1998-01-05,Current,Not Salaried,No,No
+5,18,Humberto,Acevedo,Sales Region Manager,1998-01-05,1965-01-23,Humberto@contoso.com,612-555-0100,Gustavo Achong,612-555-0100,Male,2,72.45,40,Tool Design,2000-06-30,Current,Not Salaried,No,No
+6,1,Yoichiro,Okada,Sales State Manager,1998-01-11,1949-08-29,thierry0@contoso.com,168-555-0183,Gerwald Oberleitner,168-555-0183,Male,2,55.0,40,Tool Design,1998-01-11,Current,Not Salaried,No,Yes
+7,2,Pilar,Ackerman,Sales State Manager,1998-01-20,1965-04-19,PilarAckerman@contoso.com,913-555-0172,Gudmundur Adalsteinsson,913-555-0172,Male,2,55.0,40,Marketing,1998-01-20,Current,Salaried,No,No
+8,3,Aaron,Painter,Sales State Manager,1998-01-20,1965-04-19,AaronPainter@contoso.com,913-555-0172,Dominik Paiha,913-555-0172,Male,2,55.0,40,Marketing,1999-08-16,Current,Salaried,No,No
+9,4,Terry,Adams,Sales State Manager,1998-01-26,1946-02-16,jolynn0@contoso.com,903-555-0145,Michael Affronti,903-555-0145,Female,2,55.0,40,Production,1998-01-26,Current,Not Salaried,No,No
+10,5,David,Probst,Sales State Manager,1998-02-06,1946-07-06,ruth0@contoso.com,145-555-0130,Jim Ptaszynski,145-555-0130,Female,2,55.0,40,Production,1998-02-06,Current,Not Salaried,No,Yes
+11,1,Manoj,Agarwal,Sales State Manager,1998-02-06,1942-10-29,gail0@contoso.com,849-555-0139,Nupur Agarwal,849-555-0139,Female,2,55.0,40,Engineering,1998-02-06,Current,Salaried,No,Yes
+12,2,Michael,Raheem,Sales State Manager,1998-02-07,1946-04-27,barry0@contoso.com,206-555-0180,Amritansh Raghav,206-555-0180,Male,2,55.0,40,Production,1998-02-07,Current,Not Salaried,No,No
+13,3,David,Ahs,Sales State Manager,1998-02-24,1949-04-11,jossef0@contoso.com,122-555-0189,Hatim Aiad,122-555-0189,Male,2,55.0,40,Engineering,1998-02-24,Current,Salaried,No,Yes
+14,8,Miguel,Saenz,Sales Store Manager,1998-03-03,1961-09-01,terri0@contoso.com,819-555-0175,Peter Saddow,819-555-0175,Female,2,25.0,40,Engineering,1998-03-03,Current,Salaried,No,No
+15,9,Kim,Akers,Sales Store Manager,1998-03-05,1946-10-01,sidney0@contoso.com,424-555-0189,Cigdem Akin,424-555-0189,Male,2,25.0,40,Production,1998-03-05,Current,Not Salaried,No,Yes
+16,1,Kate,Taneyhill,Sales State Manager,1998-03-11,1946-05-03,taylor0@contoso.com,508-555-0165,Roberto Tamburello,508-555-0165,Male,2,55.0,40,Production,1998-03-11,Current,Not Salaried,No,Yes
+17,2,David,Alexander,Sales State Manager,1998-03-23,1946-08-12,jeffrey0@contoso.com,984-555-0185,Michael Alexander,984-555-0185,Male,2,55.0,40,Production,1998-03-23,Current,Not Salaried,No,No
+18,1,Pieter,Uittenbogaard,Sales Group Manager,1998-03-30,1946-11-09,jo0@contoso.com,632-555-0129,Sairaj Uddin,632-555-0129,Female,2,125.0,80,'Human Resources Contral,1998-03-30,Current,Not Salaried,No,No
+19,4,Michelle,Alexander,Sales State Manager,1998-04-11,1946-05-06,doris0@contoso.com,328-555-0150,Mark Alexieff,328-555-0150,Female,2,55.0,40,Production,1998-04-11,Current,Not Salaried,No,Yes
+20,5,Rene,Valdes,Sales State Manager,1998-04-18,1946-09-08,john0@contoso.com,435-555-0113,Szabolcs Vajda,435-555-0113,Male,2,55.0,40,Production,1998-04-18,Current,Not Salaried,No,Yes
+21,1,Michael,Allen,Sales State Manager,1998-04-29,1946-04-30,diane0@contoso.com,202-555-0151,Gilead Almosnino,202-555-0151,Female,2,55.0,40,Production,1998-04-29,Current,Not Salaried,No,Yes
+22,2,Rohinton,Wadia,Sales State Manager,1999-01-02,1967-06-15,steven0@contoso.com,925-555-0114,Roland Wacker,925-555-0114,Male,2,55.0,40,Production,1999-01-02,Current,Not Salaried,No,Yes
+23,3,Luis,Alverca,Sales State Manager,1999-01-02,1972-12-04,peter0@contoso.com,913-555-0196,James Alvord,913-555-0196,Male,2,55.0,40,Production Control,1999-01-02,Current,Salaried,No,Yes
+24,9,Ming-Yang,Xie,Sales Store Manager,1999-01-03,1952-10-14,stuart0@contoso.com,413-555-0136,Stig Panduro,413-555-0136,Male,2,25.0,40,Production,1999-01-03,Current,Not Salaried,No,No
+25,10,Antonio,Alwan,Sales Store Manager,1999-01-03,1960-11-18,greg0@contoso.com,332-555-0150,Kamil Amireh,332-555-0150,Male,2,25.0,40,Production,1999-01-03,Current,Not Salaried,No,No
+26,1,David,Yalovsky,Sales State Manager,1999-01-03,1969-12-03,david1@contoso.com,166-555-0162,Shmuel Yair,166-555-0162,Male,2,55.0,40,Production,1999-01-03,Current,Not Salaried,No,No
+27,2,Oleg,Anashkin,Sales State Manager,1999-01-04,1973-11-26,zheng0@contoso.com,113-555-0173,Thomas Andersen,113-555-0173,Male,2,55.0,40,Production,1999-01-04,Current,Not Salaried,No,No
+28,3,Marko,Zajc,Sales State Manager,1999-01-05,1972-02-04,ivo0@contoso.com,115-555-0179,Eugene Zabokritski,115-555-0179,Male,2,55.0,40,Production,1999-01-05,Current,Not Salaried,No,Yes
+29,4,Christen,Anderson,Sales State Manager,1999-01-05,1970-12-15,paul0@contoso.com,147-555-0160,Nancy Anderson,147-555-0160,Male,2,55.0,40,Production,1999-01-05,Current,Not Salaried,No,No
+30,5,Mike,Nash,Sales State Manager,1999-01-05,1967-04-28,ashvini0@contoso.com,656-555-0119,Ranjith Narayanan,656-555-0119,Male,2,55.0,40,Information Services,1999-01-05,Current,Not Salaried,No,No
+31,1,Diogo,Andrade,Sales State Manager,1999-01-06,1976-06-30,kendall0@contoso.com,138-555-0128,Joe Andreshak,138-555-0128,Male,2,55.0,40,Production,1999-01-06,Current,Not Salaried,No,Yes
+32,2,Aneta,Olecka,Sales State Manager,1999-01-07,1966-03-14,paula0@contoso.com,523-555-0175,Preeda Ola,523-555-0175,Female,2,55.0,40,Human Resources,1999-01-07,Current,Salaried,No,Yes
+33,3,Ben,Andrews,Sales State Manager,1999-01-07,1979-01-06,alejandro0@contoso.com,668-555-0130,Lisa Andrews,668-555-0130,Male,2,55.0,40,Production,1999-01-07,Current,Not Salaried,No,No
+34,7,Jae,Pak,Sales Store Manager,1999-01-08,1974-09-26,garrett0@contoso.com,609-555-0179,Wilson Pais,609-555-0179,Male,2,25.0,40,Production,1999-01-08,Current,Not Salaried,No,No
+35,10,Roy,Antebi,Sales Store Manager,1999-01-08,1973-08-27,jianshuo0@contoso.com,952-555-0178,Johnson Apacible,952-555-0178,Male,1,25.0,38,Production,1999-01-08,Current,Not Salaried,No,No
+36,6,Prithvi,Raj,Sales Store Manager,1999-01-08,1968-03-20,susan0@contoso.com,943-555-0196,Stuart Railson,943-555-0196,Female,1,25.0,40,Shipping and Receiving,1999-01-08,Current,Not Salaried,No,No
+37,6,Luca,Argentiero,Sales Store Manager,1999-01-08,1967-04-19,vamsi0@contoso.com,937-555-0137,NeKeta Argrow,937-555-0137,Male,2,25.0,40,Shipping and Receiving,1999-01-08,Current,Not Salaried,No,Yes
+38,6,Suriya,Sajjateerakool,Sales Store Manager,1999-01-08,1968-02-27,alice0@contoso.com,333-555-0173,Malvin Seale,333-555-0173,Female,1,25.0,40,Production,1999-01-08,Current,Not Salaried,No,Yes
+39,6,Zainal,Arifin,Sales Store Manager,1999-01-09,1980-06-17,simon0@contoso.com,963-555-0134,Ravital Artman,963-555-0134,Male,1,25.0,40,Production,1999-01-09,Current,Not Salaried,No,No
+40,6,Amy,Strande,Sales Store Manager,1999-01-09,1979-03-09,jinghao0@contoso.com,794-555-0159,Anne-Mette Stoltze,794-555-0159,Male,2,25.0,40,Production,1999-01-09,Current,Not Salaried,No,No
+41,6,Ties,Arts,Sales Store Manager,1999-01-10,1974-12-19,michael0@contoso.com,218-555-0126,Dimple Arya,218-555-0126,Male,1,25.0,40,Production,1999-01-10,Current,Not Salaried,No,No
+42,6,Daniel,Taylor,Sales Store Manager,1999-01-10,1979-05-17,yvonne0@contoso.com,286-555-0189,Maurice Taylor,286-555-0189,Female,1,25.0,40,Production,1999-01-10,Current,Not Salaried,No,Yes
+43,6,Ronen,Ashkenazi,Sales Store Manager,1999-01-10,1966-04-19,peng0@contoso.com,164-555-0164,Roya Asbari,164-555-0164,Male,2,25.0,40,Quality Assurance,1999-01-10,Current,Salaried,No,Yes
+44,6,Hans-Walter,Untch,Sales Store Manager,1999-01-12,1966-01-13,jean0@contoso.com,685-555-0120,Sunil Uppal,685-555-0120,Female,2,25.0,40,Information Services,1999-01-12,Current,Salaried,No,No
+45,6,Chris,Ashton,Sales Store Manager,1999-01-13,1962-12-27,russell0@contoso.com,786-555-0144,Sameer Athalye,786-555-0144,Male,1,25.0,40,Production,1999-01-13,Current,Not Salaried,No,Yes
+46,6,Michael,Vanderhyde,Sales Store Manager,1999-01-13,1958-10-19,ascott0@contoso.com,992-555-0194,Esther Valle,992-555-0194,Male,2,25.0,40,Production Control,1999-01-13,Current,Not Salaried,No,No
+47,6,Vivian,Atlas,Sales Store Manager,1999-01-13,1979-07-27,fred0@contoso.com,818-555-0192,Kai Axford,818-555-0192,Male,1,25.0,40,Production,1999-01-13,Current,Not Salaried,No,No
+48,6,Robin,Wakefield,Sales Store Manager,1999-01-13,1977-06-21,sariya0@contoso.com,399-555-0176,Darren Waite,399-555-0176,Male,2,25.0,40,Marketing,1999-01-13,Current,Not Salaried,No,No
+49,6,Anahita,Bahrami,Sales Store Manager,1999-01-14,1968-08-18,willis0@contoso.com,778-555-0141,Josh Bailey,778-555-0141,Male,2,25.0,40,Human Resources,1999-01-14,Current,Not Salaried,No,No
+50,6,Pieter,Wycoff,Sales Store Manager,1999-01-15,1969-08-06,jun0@contoso.com,299-555-0113,David Wright,299-555-0113,Male,1,25.0,40,Production,1999-01-15,Current,Not Salaried,No,No
+51,6,Dev,Balasubramanian,Sales Store Manager,1999-01-15,1966-02-18,christian0@contoso.com,846-555-0157,Yossi Banai,846-555-0157,Male,2,25.0,40,Facilities and Maintenance,1999-01-15,Current,Salaried,No,Yes
+52,6,Steven,Wright,Sales Store Manager,1999-01-15,1973-05-03,susan1@contoso.com,639-555-0164,Makoto Yamagishi,639-555-0164,Female,1,25.0,40,Production,1999-01-15,Current,Not Salaried,No,No
+54,6,Eiji,Yasuda,Sales Store Manager,1999-01-16,1975-03-10,kirk0@contoso.com,669-555-0150,Arthur Yasinski,669-555-0150,Male,1,25.0,40,Production,1999-01-16,Current,Not Salaried,No,No
+55,6,Ed,Banti,Sales Store Manager,1999-01-16,1975-01-30,david2@contoso.com,712-555-0119,Evan Basalik,712-555-0119,Male,1,25.0,33,Production,1999-01-16,Current,Not Salaried,No,Yes
+56,6,Mrina,Natarajan,Sales Store Manager,1999-01-17,1980-05-29,tengiz0@contoso.com,910-555-0116,Kirk J. Nason,910-555-0116,Male,2,25.0,76,Document Control,1999-01-17,Current,Not Salaried,No,No
+57,6,Dave,Barnett,Sales Store Manager,1999-01-17,1964-11-16,hanying0@contoso.com,319-555-0139,Josh Barnhill,319-555-0139,Male,1,25.0,15,Production,1999-01-17,Current,Not Salaried,No,No
+58,6,Manuel,Oliveira,Sales Store Manager,1999-01-18,1976-01-26,kevin1@contoso.com,714-555-0138,Neil Orint,714-555-0138,Male,1,25.0,58,Production,1999-01-18,Current,Not Salaried,No,No
+59,6,Adam,Barr,Sales Store Manager,1999-01-18,1967-01-27,annik0@contoso.com,499-555-0125,Chris Barry,499-555-0125,Male,1,25.0,17,Production,1999-01-18,Current,Not Salaried,No,Yes
+60,7,Rok,Palcic,Sales Store Manager,1999-01-18,1968-03-28,suroor0@contoso.com,932-555-0161,Ian Palangio,932-555-0161,Male,1,25.0,93,Production,1999-01-18,Current,Not Salaried,No,No
+61,7,Shai,Bassli,Sales Store Manager,1999-01-19,1966-04-07,deborah0@contoso.com,602-555-0194,Deborah Baumfeld,602-555-0194,Female,2,25.0,60,Finance,1999-01-19,Current,Not Salaried,No,Yes
+62,7,Yossi,Ran,Sales Store Manager,1999-01-20,1976-10-09,jim0@contoso.com,679-555-0113,Rajesh Ramanathan,679-555-0113,Male,1,25.0,1,Production,1999-01-20,Current,Not Salaried,No,Yes
+63,7,Shaun,Beasley,Sales Store Manager,1999-01-20,1973-11-19,carole0@contoso.com,688-555-0192,Mark Bebbington,688-555-0192,Female,1,25.0,42,Production,1999-01-20,Current,Not Salaried,No,Yes
+64,7,Karolina,Salas-Szlejter,Sales Store Manager,1999-01-22,1967-05-18,george0@contoso.com,518-555-0199,Tamer Salah,518-555-0199,Male,1,25.0,26,Production,1999-01-22,Current,Not Salaried,No,Yes
+65,7,Anna,Bedecs,Sales Store Manager,1999-01-23,1978-06-17,gary0@contoso.com,901-555-0125,Parry Bedi,901-555-0125,Male,1,25.0,69,Production,1999-01-23,Current,Not Salaried,No,No
+66,7,Oliver,Szimmetat,Sales Store Manager,1999-01-23,1974-05-13,cristian0@contoso.com,434-555-0133,Radoslaw Szymczak,434-555-0133,Male,2,25.0,67,Production,1999-01-23,Current,Not Salaried,No,Yes
+67,7,Ann,Beebe,Sales Store Manager,1999-01-24,1957-04-02,raymond0@contoso.com,226-555-0197,Kostadin Belishky,226-555-0197,Male,1,25.0,10,Production,1999-01-24,Current,Not Salaried,No,Yes
+68,7,Jeff,Teper,Sales Store Manager,1999-01-24,1975-03-03,janaina0@contoso.com,623-555-0155,Rakesh Tangirala,623-555-0155,Female,2,25.0,71,Information Services,1999-01-24,Current,Salaried,No,Yes
+69,7,Allie,Bellew,Sales Store Manager,1999-01-25,1969-09-16,bob0@contoso.com,611-555-0116,Almudena Benito,611-555-0116,Male,1,25.0,12,Production,1999-01-25,Current,Not Salaried,No,No
+70,7,Siri,Velauthapillai,Sales Store Manager,1999-01-25,1970-11-05,shammi0@contoso.com,793-555-0179,Garrett Vargas,793-555-0179,Male,1,25.0,66,Production,1999-01-25,Current,Not Salaried,No,Yes
+71,7,Nuno,Bento,Sales Store Manager,1999-01-26,1977-08-17,linda0@contoso.com,612-555-0171,Karen Berg,612-555-0171,Female,1,25.0,96,Production,1999-01-26,Current,Not Salaried,No,Yes
+72,7,Anne,Wallace,Sales Store Manager,1999-01-26,1974-12-22,mindy0@contoso.com,522-555-0147,Larry Waldman,522-555-0147,Female,2,25.0,51,Human Resources,1999-01-26,Current,Not Salaried,No,Yes
+73,7,Matt,Berg,Sales Store Manager,1999-01-26,1974-11-12,wendy0@contoso.com,248-555-0134,Martin Berka,248-555-0134,Female,2,25.0,55,Finance,1999-01-26,Current,Salaried,No,No
+74,7,John,Yokim,Sales Store Manager,1999-01-27,1974-06-01,kim0@contoso.com,309-555-0129,Norimichi Yonekura,309-555-0129,Female,1,25.0,98,Shipping and Receiving,1999-01-27,Current,Not Salaried,No,No
+75,7,Antonio,Bermejo,Sales Store Manager,1999-01-27,1965-12-06,sandra0@contoso.com,896-555-0168,Matthias Berndt,896-555-0168,Female,1,25.0,37,Production,1999-01-27,Current,Not Salaried,No,Yes
+76,7,Robert,Zare,Sales Store Manager,1999-01-28,1970-05-30,kok-ho0@contoso.com,999-555-0155,Amr Zaki,999-555-0155,Male,2,25.0,78,Production,1999-01-28,Current,Not Salaried,No,No
+77,8,Michael,Berroth,Sales Store Manager,1999-01-28,1975-12-26,douglas0@contoso.com,808-555-0172,Dana Birkby,808-555-0172,Male,1,25.0,80,Production,1999-01-28,Current,Not Salaried,No,Yes
+79,8,Jimmy,Bischoff,Sales Store Manager,1999-01-29,1966-04-07,sean0@contoso.com,420-555-0173,Scott Bishop,420-555-0173,Male,2,25.0,82,Quality Assurance,1999-01-29,Current,Not Salaried,No,No
+80,8,Michael,Neipper,Sales Store Manager,1999-01-29,1977-01-01,nitin0@contoso.com,143-555-0173,Jeremy Nelson,143-555-0173,Male,1,25.0,21,Production,1999-01-29,Current,Not Salaried,No,No
+81,8,Ari,Bixhorn,Sales Store Manager,1999-01-30,1976-07-06,diane1@contoso.com,815-555-0138,Neil Black,815-555-0138,Female,2,25.0,62,Research and Development,1999-01-30,Current,Salaried,No,No
+82,8,Paulo,Neves,Sales Store Manager,1999-01-30,1967-08-11,rebecca0@contoso.com,314-555-0113,Belinda Newman,314-555-0113,Female,1,25.0,23,Production,1999-01-30,Current,Not Salaried,No,Yes
+83,8,Rex,Bloesser,Sales Store Manager,1999-02-01,1967-11-05,rajesh0@contoso.com,373-555-0137,Nikhil Bobde,373-555-0137,Male,1,25.0,48,Production,1999-02-01,Current,Not Salaried,No,Yes
+84,8,Aaron,Nicholls,Sales Store Manager,1999-02-02,1974-09-02,vidur0@contoso.com,153-555-0186,Chad Niswonger,153-555-0186,Male,2,25.0,50,Human Resources,1999-02-02,Current,Not Salaried,No,No
+85,8,Tomasz,Bochenek,Sales Store Manager,1999-02-02,1968-07-01,john1@contoso.com,172-555-0130,Catherine Boeger,172-555-0130,Male,1,25.0,91,Production,1999-02-02,Current,Not Salaried,No,No
+86,8,Toby,Nixon,Sales Store Manager,1999-02-03,1978-12-21,nancy0@contoso.com,970-555-0118,Elly Nkya,970-555-0118,Female,1,25.0,34,Production,1999-02-03,Current,Not Salaried,No,Yes
+87,8,Corinna,Bolender,Sales Store Manager,1999-02-03,1962-10-11,pilar0@contoso.com,577-555-0185,Srikanth Bolisetty,577-555-0185,Male,2,25.0,93,Shipping and Receiving,1999-02-03,Current,Salaried,No,No
+88,8,Fabricio,Noriega,Sales Store Manager,1999-02-03,1971-09-04,david3@contoso.com,373-555-0142,Chris Norred,373-555-0142,Male,1,25.0,32,Production,1999-02-03,Current,Not Salaried,No,No
+89,8,Raffaella,Bonaldi,Sales Store Manager,1999-02-04,1973-08-02,david4@contoso.com,986-555-0177,Luis Bonifaz,986-555-0177,Male,2,25.0,73,Production,1999-02-04,Current,Not Salaried,No,No
+90,8,Jerry,Orman,Sales Store Manager,1999-02-04,1971-01-26,laura0@contoso.com,777-555-0141,Tad Orman,777-555-0141,Female,1,25.0,75,Production,1999-02-04,Current,Not Salaried,No,No
+91,8,Laurent,Bonnet,Sales Store Manager,1999-02-05,1976-06-20,margie0@contoso.com,818-555-0128,Randall Boseman,818-555-0128,Female,1,25.0,18,Production,1999-02-05,Current,Not Salaried,No,Yes
+92,8,Danni,Ortman,Sales Store Manager,1999-02-05,1966-03-02,zainal0@contoso.com,204-555-0115,Jon Orton,204-555-0115,Male,2,25.0,77,Document Control,1999-02-05,Current,Not Salaried,No,Yes
+93,8,Thomas,Bouchard,Sales Store Manager,1999-02-05,1978-12-28,lorraine0@contoso.com,845-555-0184,Eli Bowen,845-555-0184,Female,1,25.0,49,Production,1999-02-05,Current,Not Salaried,No,Yes
+94,8,Scott,Oveson,Sales Store Manager,1999-02-05,1979-03-19,fadi0@contoso.com,935-555-0116,Inna Ozhogina,935-555-0116,Male,1,25.0,16,Production,1999-02-05,Current,Not Salaried,No,No
+95,8,Marc,Boyer,Sales Store Manager,1999-02-06,1962-07-15,ryan0@contoso.com,208-555-0114,Jonas Brandel,208-555-0114,Male,1,25.0,59,Production,1999-02-06,Current,Not Salaried,No,Yes
+96,8,Tude,Palma,Sales Store Manager,1999-02-07,1966-03-26,candy0@contoso.com,920-555-0177,Prakash Paramasivam,920-555-0177,Female,2,25.0,61,Finance,1999-02-07,Current,Not Salaried,No,No
+97,8,Peter,Bankov,Sales Store Manager,1999-02-07,1969-04-29,nuan0@contoso.com,913-555-0184,Dushyant Bansal,913-555-0184,Male,1,25.0,2,Production,1999-02-07,Current,Not Salaried,No,No
+98,8,Dan,Park,Sales Store Manager,1999-02-08,1971-12-08,DanPark@contoso.com,148-555-0145,Darren Parker,148-555-0145,Male,2,25.0,45,Production Control,1999-02-08,Current,Not Salaried,No,Yes
+99,8,Bryan,Bredehoeft,Sales Store Manager,1999-02-08,1971-12-08,BryanB@contoso.com,148-555-0145,Peter Brehm,148-555-0145,Male,2,25.0,45,Production Control,2001-10-02,Current,Not Salaried,No,Yes
+100,8,Rajesh,Patel,Sales Store Manager,1999-02-08,1979-12-08,bjorn0@contoso.com,199-555-0117,Sanjay Patel,199-555-0117,Male,1,25.0,43,Production,1999-02-08,Current,Not Salaried,No,No
+101,8,Alan,Brewer,Sales Store Manager,1999-02-09,1977-03-13,scott0@contoso.com,391-555-0138,Markus Breyer,391-555-0138,Male,1,25.0,86,Production,1999-02-09,Current,Not Salaried,No,Yes
+102,8,Dorena,Paschke,Sales Store Manager,1999-02-11,1981-02-04,michael1@contoso.com,454-555-0119,Michael Patten,454-555-0119,Male,1,25.0,70,Production,1999-02-11,Current,Not Salaried,No,No
+103,8,Nick,Brigandi,Sales Store Manager,1999-02-12,1964-10-24,lane0@contoso.com,200-555-0117,David Bristol,200-555-0117,Male,1,25.0,11,Production,1999-02-12,Current,Not Salaried,No,Yes
+104,8,Leonids,Paturskis,Sales Store Manager,1999-02-12,1967-03-07,pete0@contoso.com,768-555-0123,Flemming Pedersen,768-555-0123,Male,1,25.0,13,Production,1999-02-12,Current,Not Salaried,No,No
+105,8,Allison,Brown,Sales Store Manager,1999-02-12,1971-07-28,dan0@contoso.com,166-555-0159,Jed Brown,166-555-0159,Male,2,25.0,72,Information Services,1999-02-12,Current,Salaried,No,Yes
+106,8,Yael,Peled,Sales Store Manager,1999-02-13,1954-07-23,david5@contoso.com,477-555-0132,Laurent Penisson,477-555-0132,Male,2,25.0,56,Finance,1999-02-13,Current,Not Salaried,No,No
+107,8,Robert,Brown,Sales Store Manager,1999-02-13,1963-02-25,lolan0@contoso.com,582-555-0178,Scott Brown,582-555-0178,Male,1,25.0,7,Production,1999-02-13,Current,Not Salaried,No,Yes
+108,8,Lori,Penor,Sales Store Manager,1999-02-13,1977-03-13,paula1@contoso.com,476-555-0119,Lionel Penuchot,476-555-0119,Female,1,25.0,54,Production,1999-02-13,Current,Not Salaried,No,Yes
+109,8,Daniel,Brunner,Sales Store Manager,1999-02-13,1952-10-14,mary0@contoso.com,531-555-0183,Chloe Brussard,531-555-0183,Female,2,25.0,46,Marketing,1999-02-13,Current,Not Salaried,No,Yes
+110,9,Michel,Pereira,Sales Store Manager,1999-02-14,1968-06-07,mindaugas0@contoso.com,637-555-0120,Tom Perham,637-555-0120,Male,1,25.0,97,Production,1999-02-14,Current,Not Salaried,No,Yes
+111,9,Chris,Bryant,Sales Store Manager,1999-02-15,1975-02-20,eric0@contoso.com,260-555-0119,Susan Burk,260-555-0119,Male,2,25.0,40,Production,1999-02-15,Current,Not Salaried,No,Yes
+112,9,Wirote,Petchdenlarp,Sales Store Manager,1999-02-15,1959-03-02,ken0@contoso.com,697-555-0142,Cristian Petculescu,697-555-0142,Male,2,25.0,99,Executive,1999-02-15,Current,Salaried,No,No
+113,9,Brian,Burke,Sales Store Manager,1999-02-15,1979-01-08,jason0@contoso.com,571-555-0179,Ovidiu Burlacu,571-555-0179,Male,1,25.0,38,Production,1999-02-15,Current,Not Salaried,No,No
+114,9,Palle,Petersen,Sales Store Manager,1999-02-16,1976-05-31,mark0@contoso.com,147-555-0179,Pierangela Pezzini,147-555-0179,Male,2,25.0,83,Quality Assurance,1999-02-16,Current,Not Salaried,No,No
+115,9,Tzipi,Butnaru,Sales Store Manager,1999-02-16,1962-08-25,janeth0@contoso.com,540-555-0191,Dennis Bye,540-555-0191,Female,1,25.0,81,Production,1999-02-16,Current,Not Salaried,No,No
+116,9,Terrence,Philip,Sales Store Manager,1999-02-17,1976-11-24,marc0@contoso.com,234-555-0169,Jeff Phillips,234-555-0169,Male,1,25.0,22,Production,1999-02-17,Current,Not Salaried,No,Yes
+117,9,Rick,Byham,Sales Store Manager,1999-02-17,1969-02-21,gigi0@contoso.com,185-555-0186,Randy Byrne,185-555-0186,Female,2,25.0,63,Research and Development,1999-02-17,Current,Salaried,No,Yes
+118,9,Michal,Piaseczny,Sales Store Manager,1999-02-18,1980-12-05,paul1@contoso.com,727-555-0112,Guido Pica,727-555-0112,Male,1,25.0,6,Production,1999-02-18,Current,Not Salaried,No,Yes
+119,9,Reina,Cabatana,Sales Store Manager,1999-02-18,1977-10-07,frank0@contoso.com,158-555-0191,Ryan Calafato,158-555-0191,Male,1,25.0,56,Production,1999-02-18,Current,Not Salaried,No,Yes
+120,9,Pilar,Pinilla,Sales Store Manager,1999-02-18,1965-06-17,françois0@contoso.com,785-555-0110,Armando Pinto,785-555-0110,Male,2,25.0,67,Information Services,1999-02-18,Current,Salaried,No,No
+121,9,Iulian,Calinov,Sales Store Manager,1999-02-19,1979-09-10,diane2@contoso.com,361-555-0180,Geert Camelbeke,361-555-0180,Female,1,25.0,8,Production,1999-02-19,Current,Not Salaried,No,No
+122,9,Tanja,Plate,Sales Store Manager,1999-02-19,1969-07-19,jill0@contoso.com,510-555-0121,Idan Plonsky,510-555-0121,Female,2,25.0,47,Marketing,1999-02-19,Current,Not Salaried,No,Yes
+123,9,Maria,Cameron,Sales Store Manager,1999-02-21,1981-07-01,angela0@contoso.com,150-555-0194,David Campbell,150-555-0194,Female,1,25.0,92,Production,1999-02-21,Current,Not Salaried,No,No
+124,9,Ekaterina,Podkolzina,Sales Store Manager,1999-02-21,1963-12-13,matthias0@contoso.com,139-555-0120,Toni Poe,139-555-0120,Male,2,25.0,94,Shipping and Receiving,1999-02-21,Current,Not Salaried,No,Yes
+125,9,Jamie,Campbell,Sales Store Manager,1999-02-22,1963-09-28,bryan0@contoso.com,712-555-0113,Fabrice Canel,712-555-0113,Male,1,25.0,35,Production,1999-02-22,Current,Not Salaried,No,No
+126,9,Grigory,Pogulsky,Sales Store Manager,1999-02-22,1967-02-16,jeff0@contoso.com,350-555-0167,Carole Poland,350-555-0167,Male,2,25.0,74,Production,1999-02-22,Current,Not Salaried,No,Yes
+127,9,Paul,Cannon,Sales Store Manager,1999-02-22,1977-08-15,eugene0@contoso.com,241-555-0191,Jon Cantrell,241-555-0191,Male,1,25.0,33,Production,1999-02-22,Current,Not Salaried,No,No
+128,9,Josh,Pollock,Sales Store Manager,1999-02-23,1969-08-02,barbara0@contoso.com,119-555-0192,Laura Steele Polly,119-555-0192,Female,1,25.0,17,Production,1999-02-23,Current,Not Salaried,No,Yes
+129,9,Cyril,Carbonati,Sales Store Manager,1999-02-23,1979-01-17,chris0@contoso.com,200-555-0112,Richard Carey,200-555-0112,Male,1,25.0,76,Production,1999-02-23,Current,Not Salaried,No,Yes
+130,9,Cristina,Potra,Sales Store Manager,1999-02-23,1977-04-12,sean1@contoso.com,205-555-0132,Houman Pournasseh,205-555-0132,Male,2,25.0,78,Document Control,1999-02-23,Current,Not Salaried,No,No
+131,9,Jason,Carlson,Sales Store Manager,1999-02-23,1966-02-06,dan1@contoso.com,653-555-0144,Ty Carlson,653-555-0144,Male,2,25.0,66,Information Services,1999-02-23,Current,Salaried,No,Yes
+132,9,Chris,Preston,Sales Store Manager,1999-02-24,1969-10-26,mark1@contoso.com,417-555-0154,Jeff Price,417-555-0154,Male,1,25.0,19,Production,1999-02-24,Current,Not Salaried,No,No
+133,9,Fernando,Caro,Sales Store Manager,1999-02-25,1974-10-22,bryan1@contoso.com,935-555-0199,Rob Caron,935-555-0199,Male,2,25.0,62,Finance,1999-02-25,Current,Not Salaried,No,No
+134,9,Vishwa,Ranjan,Sales Store Manager,1999-02-26,1961-09-30,houman0@contoso.com,180-555-0136,Markus Rankenburg,180-555-0136,Male,1,25.0,3,Production,1999-02-26,Current,Not Salaried,No,Yes
+135,9,Chase,Carpenter,Sales Store Manager,1999-02-27,1978-01-22,sairaj0@contoso.com,500-555-0159,Adam Carter,500-555-0159,Male,2,25.0,46,Production Control,1999-02-27,Current,Not Salaried,No,Yes
+136,9,Arvind,Rao,Sales Store Manager,1999-02-27,1972-07-28,michiko0@contoso.com,984-555-0148,Rui Raposo,984-555-0148,Male,1,25.0,44,Production,1999-02-27,Current,Not Salaried,No,No
+137,9,Carlos,Carvallo,Sales Store Manager,1999-02-28,1976-02-06,benjamin0@contoso.com,533-555-0111,Rob Cason,533-555-0111,Male,1,25.0,28,Production,1999-02-28,Current,Not Salaried,No,No
+138,9,Morten,Rasmussen,Sales Store Manager,1999-02-28,1971-09-19,cynthia0@contoso.com,352-555-0138,Andrew Rath,352-555-0138,Female,2,25.0,69,Production,1999-02-28,Current,Not Salaried,No,No
+139,9,Gitte,Casparij,Sales Store Manager,1999-02-28,1980-12-02,kathie0@contoso.com,446-555-0118,Joao Casqueiro,446-555-0118,Female,1,25.0,87,Production,1999-02-28,Current,Not Salaried,No,Yes
+140,9,Mike,Ray,Sales Store Manager,1999-03-02,1979-10-30,britta0@contoso.com,955-555-0169,Rodrigo Ready,955-555-0169,Female,1,25.0,14,Production,1999-03-02,Current,Not Salaried,No,Yes
+141,9,Giorgio,Cavaglieri,Sales Store Manager,1999-03-02,1967-03-14,brian0@contoso.com,110-555-0182,Matt Cavallari,110-555-0182,Male,1,25.0,55,Production,1999-03-02,Current,Not Salaried,No,No
+142,9,April,Reagan,Sales Store Manager,1999-03-03,1973-08-08,david6@contoso.com,646-555-0185,Jamie Reding,646-555-0185,Male,2,25.0,57,Finance,1999-03-03,Current,Salaried,No,Yes
+143,9,Luisa,Cazzaniga,Sales Store Manager,1999-03-04,1966-02-06,LuisaC@contoso.com,615-555-0110,Ural Cebeci,615-555-0110,Female,2,25.0,0,Executive,1999-03-04,Current,Salaried,No,Yes
+144,9,Barak,Regev,Sales Store Manager,1999-03-04,1966-02-06,BarakR@contoso.com,615-555-0110,Miles Reid,615-555-0110,Female,2,25.0,0,Executive,2003-12-15,Current,Salaried,No,Yes
+145,9,Sean,Chai,Sales Store Manager,1999-03-04,1964-06-03,michael2@contoso.com,441-555-0195,Gareth Chan,441-555-0195,Male,1,25.0,98,Production,1999-03-04,Current,Not Salaried,No,No
+146,9,Enoch,Remick,Sales Store Manager,1999-03-04,1973-11-20,andy0@contoso.com,118-555-0110,Olivier Renaud,118-555-0110,Male,1,25.0,39,Production,1999-03-04,Current,Not Salaried,No,Yes
+147,9,Greg,Chapman,Sales Store Manager,1999-03-05,1967-05-08,yuhong0@contoso.com,965-555-0155,Mathew Charles,965-555-0155,Male,2,25.0,41,Production,1999-03-05,Current,Not Salaried,No,Yes
+148,9,Bjorn,Rettig,Sales Store Manager,1999-03-06,1975-04-01,robert0@contoso.com,589-555-0147,Delphine Ribaute,589-555-0147,Male,1,25.0,82,Production,1999-03-06,Current,Not Salaried,No,No
+149,9,Neil,Charney,Sales Store Manager,1999-03-06,1979-04-29,andreas0@contoso.com,181-555-0124,Mohammad Chami,181-555-0124,Male,2,25.0,84,Quality Assurance,1999-03-06,Current,Not Salaried,No,Yes
+150,9,Don,Richardson,Sales Store Manager,1999-03-06,1979-02-09,reed0@contoso.com,678-555-0110,Shawn Richardson,678-555-0110,Male,1,25.0,23,Production,1999-03-06,Current,Not Salaried,No,Yes
+151,9,Ankur,Chavda,Sales Store Manager,1999-03-07,1967-11-06,linda1@contoso.com,696-555-0157,Francisco Chaves,696-555-0157,Female,1,25.0,12,Production,1999-03-07,Current,Not Salaried,No,No
+152,9,Wendy,Richardson,Sales Store Manager,1999-03-07,1973-02-07,james1@contoso.com,870-555-0122,Jack S. Richins,870-555-0122,Male,2,25.0,64,Production,1999-03-07,Current,Salaried,No,No
+153,9,Aik,Chen,Sales Store Manager,1999-03-07,1978-04-14,ramesh0@contoso.com,182-555-0134,Jacky Chen,182-555-0134,Male,2,25.0,73,Information Services,1999-03-07,Current,Salaried,No,No
+154,9,Anders,Riis,Sales Store Manager,1999-03-08,1974-04-26,stephanie0@contoso.com,594-555-0110,Bjarne Riis,594-555-0110,Female,2,25.0,68,Information Services,1999-03-08,Current,Salaried,No,No
+155,9,Jeff,Chia,Sales Store Manager,1999-03-08,1977-12-23,samantha0@contoso.com,587-555-0114,Martin Chisholm,587-555-0114,Female,1,25.0,7,Production,1999-03-08,Current,Not Salaried,No,Yes
+156,9,Titti,Ringstrom,Sales Store Manager,1999-03-09,1979-12-12,tawana0@contoso.com,368-555-0113,Juan-Carlos Rivas,368-555-0113,Male,1,25.0,50,Production,1999-03-09,Current,Not Salaried,No,No
+157,9,Michal,Chmiela,Sales Store Manager,1999-03-09,1978-08-07,denise0@contoso.com,869-555-0119,Manish Chopra,869-555-0119,Female,1,25.0,9,Production,1999-03-09,Current,Not Salaried,No,Yes
+158,9,John,Rodman,Sales Store Manager,1999-03-10,1967-05-19,hao0@contoso.com,806-555-0136,Scott Rockfeld,806-555-0136,Male,2,25.0,52,Human Resources,1999-03-10,Current,Not Salaried,No,No
+159,9,Ray,Chow,Sales Store Manager,1999-03-12,1980-05-14,alex0@contoso.com,819-555-0198,Terri Chudzik,819-555-0198,Male,1,25.0,77,Production,1999-03-12,Current,Not Salaried,No,Yes
+160,9,Don,Roessler,Sales Store Manager,1999-03-12,1966-03-13,eugene1@contoso.com,173-555-0179,Marek Rolecki,173-555-0179,Male,1,25.0,36,Production,1999-03-12,Current,Not Salaried,No,No
+161,9,Alice,Ciccu,Sales Store Manager,1999-03-12,1967-02-11,brandon0@contoso.com,429-555-0137,Ken Circeo,429-555-0137,Male,1,25.0,22,Production,1999-03-12,Current,Not Salaried,No,Yes
+162,9,Kelly,Rollin,Sales Store Manager,1999-03-12,1977-03-27,dylan0@contoso.com,181-555-0156,Daniel Roman,181-555-0156,Male,2,25.0,61,Research and Development,1999-03-12,Current,Salaried,No,Yes
+163,9,Izak,Cohen,Sales Store Manager,1999-03-12,1980-06-24,shane0@contoso.com,810-555-0178,Pat Coleman,810-555-0178,Male,2,25.0,75,Production,1999-03-12,Current,Not Salaried,No,No
+164,9,Daniel,Roth,Sales Store Manager,1999-03-13,1976-05-06,john2@contoso.com,201-555-0163,Tali Roth,201-555-0163,Male,1,25.0,18,Production,1999-03-13,Current,Not Salaried,No,Yes
+165,9,Aaron,Con,Sales Store Manager,1999-03-13,1966-01-25,karen0@contoso.com,746-555-0164,Peter Connelly,746-555-0164,Female,2,25.0,79,Document Control,1999-03-13,Current,Not Salaried,No,Yes
+166,9,Pablo,Rovira Diez,Sales Store Manager,1999-03-14,1974-09-01,jose0@contoso.com,587-555-0115,Todd Rowe,587-555-0115,Male,1,25.0,20,Production,1999-03-14,Current,Not Salaried,No,Yes
+167,9,Kevin,Cook,Sales Store Manager,1999-03-14,1976-04-21,mandar0@contoso.com,140-555-0132,Jeroen Cool,140-555-0132,Male,1,25.0,0,Production,1999-03-14,Current,Not Salaried,No,No
+168,9,Erik,Rucker,Sales Store Manager,1999-03-14,1974-09-18,mikael0@contoso.com,309-555-0170,Raimonds Rudmanis,309-555-0170,Male,2,25.0,59,Purchasing,1999-03-14,Current,Not Salaried,No,No
+169,9,Jim,Corbin,Sales Store Manager,1999-03-15,1968-07-27,sameer0@contoso.com,990-555-0172,Michel Cordani,990-555-0172,Male,1,25.0,4,Production,1999-03-15,Current,Not Salaried,No,Yes
+170,9,Michael,Ruggiero,Sales Store Manager,1999-03-15,1967-03-18,dragan0@contoso.com,117-555-0185,Christian Rytt,117-555-0185,Male,2,25.0,63,Finance,1999-03-15,Current,Not Salaried,No,Yes
+171,9,Cecilia,Cornejo,Sales Store Manager,1999-03-16,1978-11-18,carol0@contoso.com,609-555-0153,Eva Corets,609-555-0153,Female,1,25.0,45,Production,1999-03-16,Current,Not Salaried,No,Yes
+172,9,Sharon,Salavaria,Sales Store Manager,1999-03-17,1963-09-05,rob1@contoso.com,238-555-0116,Raymond Sam,238-555-0116,Male,1,25.0,71,Production,1999-03-17,Current,Not Salaried,No,No
+173,9,Robin,Counts,Sales Store Manager,1999-03-17,1961-07-14,don0@contoso.com,100-555-0174,Jack Creasey,100-555-0174,Male,1,25.0,88,Production,1999-03-17,Current,Not Salaried,No,Yes
+174,9,Ken,Sánchez,Sales Store Manager,1999-03-17,1974-04-30,alan0@contoso.com,438-555-0172,Yolanda Sánchez,438-555-0172,Male,2,25.0,47,Production Control,1999-03-17,Current,Not Salaried,No,Yes
+175,9,Ioan,Crisiarcu,Sales Store Manager,1999-03-18,1975-10-25,david7@contoso.com,118-555-0177,Grant Culbertson,118-555-0177,Male,1,25.0,29,Production,1999-03-18,Current,Not Salaried,No,Yes
+176,9,Mandar,Samant,Sales Store Manager,1999-03-19,1980-11-07,baris0@contoso.com,164-555-0114,Prasanna Samarawickrama,164-555-0114,Male,1,25.0,72,Production,1999-03-19,Current,Not Salaried,No,No
+177,9,Scott,Culp,Sales Store Manager,1999-03-19,1979-03-02,michael3@contoso.com,156-555-0199,Conor Cunningham,156-555-0199,Male,2,25.0,70,Production,1999-03-19,Current,Not Salaried,No,No
+178,9,Patrick,Sands,Sales Store Manager,1999-03-19,1981-05-07,steve0@contoso.com,712-555-0170,Dubravka Salopek,712-555-0170,Male,1,25.0,31,Production,1999-03-19,Current,Not Salaried,No,No
+179,9,Pawel,Czernek,Sales Store Manager,1999-03-20,1977-07-11,suchitra0@contoso.com,753-555-0129,Wojciech Czupta,753-555-0129,Female,1,25.0,15,Production,1999-03-20,Current,Not Salaried,No,Yes
+180,9,Mark,Sargent,Sales Store Manager,1999-03-20,1968-06-19,karen1@contoso.com,654-555-0177,Esko Sario,654-555-0177,Female,2,25.0,74,Information Services,1999-03-20,Current,Salaried,No,No
+181,9,Apurva,Dalia,Sales Store Manager,1999-03-20,1975-01-09,terrence0@contoso.com,110-555-0115,Ofer Daliot,110-555-0115,Male,1,25.0,13,Production,1999-03-20,Current,Not Salaried,No,No
+182,9,Tihomir,Sasic,Sales Store Manager,1999-03-22,1966-02-04,barbara1@contoso.com,822-555-0145,Raman Sarin,822-555-0145,Female,2,25.0,58,Finance,1999-03-22,Current,Salaried,No,Yes
+183,9,Jim,Daly,Sales Store Manager,1999-03-22,1980-09-04,chad0@contoso.com,559-555-0175,Ryan Danner,559-555-0175,Male,1,25.0,99,Production,1999-03-22,Current,Not Salaried,No,Yes
+184,9,Michiyo,Sato,Sales Store Manager,1999-03-23,1967-10-15,rostislav0@contoso.com,751-555-0134,Naoki Sato,751-555-0134,Male,1,25.0,40,Production,1999-03-23,Current,Not Salaried,No,Yes
+185,9,Mike,Danseglio,Sales Store Manager,1999-03-24,1959-10-19,belinda0@contoso.com,319-555-0126,Alex Darrow,319-555-0126,Female,1,25.0,83,Production,1999-03-24,Current,Not Salaried,No,No
+186,9,Rimvydas,Saulis,Sales Store Manager,1999-03-24,1974-12-20,katie0@contoso.com,809-555-0133,Kazuki Sawanoi,809-555-0133,Female,2,25.0,42,Production,1999-03-24,Current,Not Salaried,No,No
+187,9,Shannon,Dascher,Sales Store Manager,1999-03-25,1972-03-14,russell1@contoso.com,517-555-0122,Velimir Davidovski,517-555-0122,Male,1,25.0,24,Production,1999-03-25,Current,Not Salaried,No,Yes
+188,9,George,Schaller,Sales Store Manager,1999-03-25,1973-07-23,jack0@contoso.com,552-555-0111,Gary Schare,552-555-0111,Male,2,25.0,68,Production,1999-03-25,Current,Not Salaried,No,No
+189,9,Andrew,Davis,Sales Store Manager,1999-03-26,1978-10-08,andrew0@contoso.com,908-555-0159,Sara Davis,908-555-0159,Male,2,25.0,65,Production,1999-03-26,Current,Not Salaried,No,No
+190,9,Rainer,Schiller,Sales Store Manager,1999-03-26,1976-05-10,nicole0@contoso.com,508-555-0129,Janet Schorr,508-555-0129,Female,1,25.0,67,Production,1999-03-26,Current,Not Salaried,No,Yes
+191,9,Eric,Davison,Sales Store Manager,1999-03-27,1961-08-24,frank1@contoso.com,167-555-0139,Marlowe Dayley,167-555-0139,Male,1,25.0,10,Production,1999-03-27,Current,Not Salaried,No,No
+192,9,Boris,Scholl,Sales Store Manager,1999-03-27,1970-06-29,peter1@contoso.com,310-555-0133,Thorsten Scholl,310-555-0133,Male,2,25.0,69,Information Services,1999-03-27,Current,Not Salaried,No,No
+193,9,Denis,Dehenne,Sales Store Manager,1999-03-27,1964-10-06,anibal0@contoso.com,106-555-0120,Aidan Delaney,106-555-0120,Female,1,25.0,8,Production,1999-03-27,Current,Not Salaried,No,No
+194,9,Andreas,Schou,Sales Store Manager,1999-03-28,1971-06-29,ken1@contoso.com,949-555-0174,Steve Schmidt,949-555-0174,Male,1,25.0,51,Production,1999-03-28,Current,Not Salaried,No,Yes
+195,9,Axel,Delgado,Sales Store Manager,1999-03-29,1966-05-18,grant0@contoso.com,955-555-0131,Eduard Dell,955-555-0131,Male,2,25.0,66,Human Resources,1999-03-29,Current,Not Salaried,No,No
+196,9,Miguel,Severino,Sales Store Manager,1999-03-29,1979-07-17,michael4@contoso.com,817-555-0186,James Seymour,817-555-0186,Male,1,25.0,94,Production,1999-03-29,Current,Not Salaried,No,No
+197,10,Luca,Dellamore,Sales Store Manager,1999-03-30,1978-04-15,lionel0@contoso.com,450-555-0152,Stephen Deming,450-555-0152,Male,1,25.0,78,Production,1999-03-30,Current,Not Salaried,No,No
+198,10,Jill,Shrader,Sales Store Manager,1999-03-30,1976-02-11,thomas0@contoso.com,278-555-0118,Shish Shridhar,278-555-0118,Male,1,25.0,37,Production,1999-03-30,Current,Not Salaried,No,Yes
+199,10,Molly,Dempsey,Sales Store Manager,1999-03-30,1975-06-05,jimmy0@contoso.com,927-555-0168,Bruno Denuit,927-555-0168,Male,1,25.0,96,Shipping and Receiving,1999-03-30,Current,Not Salaried,No,Yes
+200,10,Alexandre,Silva,Sales Store Manager,1999-03-30,1972-10-19,michael5@contoso.com,296-555-0121,Edmund Silva,296-555-0121,Male,1,25.0,35,Production,1999-03-30,Current,Not Salaried,No,Yes
+201,10,Prashanth,Desai,Sales Store Manager,1999-03-30,1970-08-19,lori0@contoso.com,289-555-0196,Shane DeSeranno,289-555-0196,Female,2,25.0,76,Production,1999-03-30,Current,Not Salaried,No,No
+202,10,Alex,Simmons,Sales Store Manager,1999-04-01,1964-09-21,arvind0@contoso.com,848-555-0163,Britta Simon,848-555-0163,Male,2,25.0,60,Purchasing,1999-04-01,Current,Not Salaried,No,Yes
+203,10,Michael,DeVoe,Sales Store Manager,1999-04-01,1966-01-21,stefen0@contoso.com,165-555-0113,Craig Dewar,165-555-0113,Male,1,25.0,19,Production,1999-04-01,Current,Not Salaried,No,No
+204,10,David,Simpson,Sales Store Manager,1999-04-01,1967-11-27,hazem0@contoso.com,869-555-0125,Katherine Simpson,869-555-0125,Male,2,25.0,80,Quality Assurance,1999-04-01,Current,Salaried,No,No
+205,10,Cari,Dick,Sales Store Manager,1999-04-02,1969-04-09,janet0@contoso.com,393-555-0186,Holly Dickson,393-555-0186,Female,2,25.0,64,Finance,1999-04-02,Current,Not Salaried,No,Yes
+206,10,Ashima,Singhal,Sales Store Manager,1999-04-03,1980-02-26,elizabeth0@contoso.com,318-555-0137,Soumya Singhi,318-555-0137,Female,1,25.0,5,Production,1999-04-03,Current,Not Salaried,No,Yes
+207,10,Cliff,Didcock,Sales Store Manager,1999-04-03,1976-03-07,terry0@contoso.com,138-555-0118,Andrew Dixon,138-555-0118,Male,2,25.0,44,Marketing,1999-04-03,Current,Not Salaried,No,Yes
+208,10,Bonnie,Skelly,Sales Store Manager,1999-04-04,1972-04-24,john3@contoso.com,663-555-0172,Morgan Skinner,663-555-0172,Male,1,25.0,27,Production,1999-04-04,Current,Not Salaried,No,No
+209,10,Blaine,Dockter,Sales Store Manager,1999-04-04,1973-06-13,merav0@contoso.com,224-555-0187,Jane Dow,224-555-0187,Female,1,25.0,46,Production,1999-04-04,Current,Not Salaried,No,Yes
+210,10,Egil,Skjold,Sales Store Manager,1999-04-04,1974-09-12,brian1@contoso.com,313-555-0196,Randy Slycord,313-555-0196,Male,2,25.0,48,Production Control,1999-04-04,Current,Not Salaried,No,Yes
+211,10,Chris,Downs,Sales Store Manager,1999-04-05,1977-07-07,kitti0@contoso.com,785-555-0132,Patricia Doyle,785-555-0132,Female,1,25.0,89,Production,1999-04-05,Current,Not Salaried,No,No
+212,10,Ben,Smith,Sales Store Manager,1999-04-06,1966-03-14,jay0@contoso.com,407-555-0165,Denise Smith,407-555-0165,Male,1,25.0,32,Production,1999-04-06,Current,Not Salaried,No,No
+213,10,Jan,Dryml,Sales Store Manager,1999-04-06,1964-12-16,jan0@contoso.com,139-555-0131,Dominik Dubicki,139-555-0131,Male,1,25.0,30,Production,1999-04-06,Current,Not Salaried,No,No
+214,10,Brian,Smith,Sales Store Manager,1999-04-06,1973-03-31,brenda0@contoso.com,142-555-0139,Derek Snyder,142-555-0139,Female,2,25.0,71,Production,1999-04-06,Current,Not Salaried,No,Yes
+215,10,Bernard,Duerr,Sales Store Manager,1999-04-07,1978-10-26,andrew1@contoso.com,207-555-0192,Marina Dukhon,207-555-0192,Male,1,25.0,73,Production,1999-04-07,Current,Not Salaried,No,No
+216,10,Lorrin,Smith-Bates,Sales Store Manager,1999-04-07,1977-06-26,chris1@contoso.com,575-555-0126,Tony Smith,575-555-0126,Male,2,25.0,75,Document Control,1999-04-07,Current,Not Salaried,No,Yes
+217,10,Andrea,Dunker,Sales Store Manager,1999-04-08,1976-09-07,chris2@contoso.com,315-555-0144,Adrian Dumitrascu,315-555-0144,Male,1,25.0,16,Production,1999-04-08,Current,Not Salaried,No,No
+218,10,Martin,Spona,Sales Store Manager,1999-04-08,1977-01-08,shelley0@contoso.com,991-555-0184,Christof Sprenger,991-555-0184,Female,1,25.0,14,Production,1999-04-08,Current,Not Salaried,No,No
+219,10,Bart,Duncan,Sales Store Manager,1999-04-09,1978-06-11,gabe0@contoso.com,310-555-0117,Daniel Durrer,310-555-0117,Male,1,25.0,57,Production,1999-04-09,Current,Not Salaried,No,Yes
+220,10,Jeff,Stammler,Sales Store Manager,1999-04-09,1969-08-01,mike0@contoso.com,927-555-0150,Jamie Stark,927-555-0150,Male,2,25.0,59,Finance,1999-04-09,Current,Salaried,No,No
+221,10,Shelley,Dyck,Sales Store Manager,1999-06-04,1975-01-01,michael6@contoso.com,330-555-2568,Maria Dykstra,330-555-2568,Male,2,25.0,16,Research and Development,1999-06-04,Current,Salaried,No,Yes
+222,10,Mark,Steele,Sales Store Manager,2000-01-03,1961-03-21,gary1@contoso.com,110-555-0112,Heidi Steen,110-555-0112,Male,2,25.0,86,Facilities and Maintenance,2000-01-03,Current,Salaried,No,Yes
+223,10,Witold,Dyszkiewicz,Sales Store Manager,2000-01-04,1961-10-03,charles0@contoso.com,931-555-0118,Krittiya Eamsiri,931-555-0118,Male,1,25.0,27,Production,2000-01-04,Current,Not Salaried,No,No
+224,10,Brad,Sutton,Sales Store Manager,2000-01-07,1976-10-23,ebru0@contoso.com,202-555-0187,Kern Sutton,202-555-0187,Male,1,25.0,93,Production,2000-01-07,Current,Not Salaried,No,No
+225,10,Terry,Earls,Sales Store Manager,2000-01-12,1960-12-13,sylvester0@contoso.com,492-555-0174,Mads Ebdrup,492-555-0174,Male,1,25.0,4,Production,2000-01-12,Current,Not Salaried,No,Yes
+226,10,Bernard,Tham,Sales Store Manager,2000-01-12,1961-01-23,brian2@contoso.com,730-555-0117,Ram Thirunavukkarasu,730-555-0117,Male,1,25.0,63,Production,2000-01-12,Current,Not Salaried,No,No
+227,10,Josh,Edwards,Sales Store Manager,2000-01-18,1960-12-31,linda2@contoso.com,916-555-0165,Alexander Eggerer,916-555-0165,Female,2,25.0,56,Purchasing,2000-01-18,Current,Not Salaried,No,Yes
+228,10,Sandhya,Thodla,Sales Store Manager,2000-01-19,1933-01-17,betsy0@contoso.com,405-555-0171,Tien Dung Thoi,405-555-0171,Female,1,25.0,99,Production,2000-01-19,Current,Not Salaried,No,No
+229,10,Vladimir,Egorov,Sales Store Manager,2000-01-22,1961-09-27,magnus0@contoso.com,583-555-0182,Mohamed Elkugia,583-555-0182,Male,2,25.0,87,Facilities and Maintenance,2000-01-22,Current,Not Salaried,No,Yes
+230,10,Iben,Thorell,Sales Store Manager,2000-01-23,1960-04-07,karan0@contoso.com,447-555-0186,Alicia Thornber,447-555-0186,Male,1,25.0,28,Production,2000-01-23,Current,Not Salaried,No,No
+231,10,Patrick,Elliott,Sales Store Manager,2000-01-26,1976-10-20,mary1@contoso.com,283-555-0185,Heiko Elmsheuser,283-555-0185,Female,1,25.0,94,Production,2000-01-26,Current,Not Salaried,No,Yes
+232,10,Justin,Thorp,Sales Store Manager,2000-01-26,1976-10-20,kevin2@contoso.com,555-555-0113,Steven Thorpe,555-555-0113,Male,1,25.0,90,Production,2000-01-26,Current,Not Salaried,No,No
+233,10,Anil,Elson,Sales Store Manager,2000-01-30,1961-04-09,mihail0@contoso.com,733-555-0128,Terry Eminhizer,733-555-0128,Male,1,25.0,64,Production,2000-01-30,Current,Not Salaried,No,No
+234,10,Danielle,Tiedt,Sales Store Manager,2000-02-02,1976-10-11,bonnie0@contoso.com,264-555-0150,Hung-Fu Ting,264-555-0150,Female,1,25.0,89,Production,2000-02-02,Current,Not Salaried,No,Yes
+235,10,Michael,Entin,Sales Store Manager,2000-02-05,1960-12-25,fukiko0@contoso.com,520-555-0177,Alexei Eremenko,520-555-0177,Male,2,25.0,57,Purchasing,2000-02-05,Current,Not Salaried,No,Yes
+236,10,Olinda,Turner,Sales Store Manager,2000-02-07,1961-11-23,hung-fu0@contoso.com,497-555-0181,Richard Turner,497-555-0181,Male,1,25.0,0,Production,2000-02-07,Current,Not Salaried,No,No
+237,10,Ebru,Ersan,Sales Store Manager,2000-02-12,1932-12-30,gordon0@contoso.com,230-555-0144,Daniel Escapa,230-555-0144,Male,2,25.0,52,Purchasing,2000-02-12,Current,Not Salaried,No,Yes
+238,10,Tjeerd,Veninga,Sales Store Manager,2000-02-13,1976-10-14,kimberly0@contoso.com,123-555-0167,Raja D. Venugopal,123-555-0167,Female,1,25.0,95,Production,2000-02-13,Current,Not Salaried,No,No
+239,6,Modesto,Estrada,Sales Store Manager,2000-02-17,1933-01-14,kim1@contoso.com,208-555-0114,John Evans,208-555-0114,Female,1,25.0,24,Production,2000-02-17,Current,Not Salaried,No,Yes
+240,6,Gregory,Verny,Sales Store Manager,2000-02-18,1961-01-03,sandeep0@contoso.com,166-555-0156,Giorgio Veronesi,166-555-0156,Male,1,25.0,65,Production,2000-02-18,Current,Not Salaried,No,No
+241,6,Ken,Ewert,Sales Store Manager,2000-02-23,1943-06-01,prasanna0@contoso.com,129-555-0199,Sten Faerch,129-555-0199,Male,1,25.0,5,Production,2000-02-23,Current,Not Salaried,No,Yes
+242,6,Peter,Villadsen,Sales Store Manager,2000-02-24,1942-06-13,frank2@contoso.com,163-555-0147,Aldis Vilums,163-555-0147,Male,2,25.0,58,Purchasing,2000-02-24,Current,Not Salaried,No,Yes
+243,6,Antoine,Faisandier,Sales Store Manager,2000-02-25,1964-10-11,min0@contoso.com,590-555-0152,Maciej Fedorow,590-555-0152,Male,1,25.0,1,Production,2000-02-25,Current,Not Salaried,No,Yes
+244,6,Florian,Voss,Sales Store Manager,2000-02-25,1933-01-08,eric1@contoso.com,680-555-0118,Rob Walters,680-555-0118,Male,1,25.0,60,Production,2000-02-25,Current,Not Salaried,No,Yes
+246,6,Kelly,Weadock,Sales Store Manager,2000-02-28,1961-01-03,pat0@contoso.com,720-555-0158,Gregory Weber,720-555-0158,Male,1,25.0,89,Facilities and Maintenance,2000-02-28,Current,Not Salaried,No,No
+247,6,Yaniv,Feinberg,Sales Store Manager,2000-03-01,1945-03-02,maciej0@contoso.com,237-555-0128,Walter Felhofer,237-555-0128,Male,1,25.0,30,Production,2000-03-01,Current,Not Salaried,No,No
+248,6,Martin,Weber,Sales Store Manager,2000-03-03,1961-02-04,erin0@contoso.com,842-555-0158,Maira Wenzel,842-555-0158,Female,2,25.0,66,Purchasing,2000-03-03,Current,Not Salaried,No,No
+249,6,Dan,Fennell,Sales Store Manager,2000-03-04,1976-10-11,patrick0@contoso.com,413-555-0124,Burke Fewel,413-555-0124,Male,1,25.0,96,Production,2000-03-04,Current,Not Salaried,No,No
+250,6,Cindy,White,Sales Store Manager,2000-03-08,1942-04-03,frank3@contoso.com,203-555-0196,Jim Wickham,203-555-0196,Male,1,25.0,66,Production,2000-03-08,Current,Not Salaried,No,Yes
+251,6,Franziska,Fiegler,Sales Store Manager,2000-03-08,1961-10-12,ed0@contoso.com,919-555-0140,Heinrich Fischer,919-555-0140,Male,1,25.0,25,Production,2000-03-08,Current,Not Salaried,No,No
+252,6,Greg,Winston,Sales Store Manager,2000-03-11,1976-11-01,christopher0@contoso.com,153-555-0166,Rainer Witte,153-555-0166,Male,1,25.0,91,Production,2000-03-11,Current,Not Salaried,No,Yes
+253,6,William,Flash,Sales Store Manager,2000-03-15,1964-01-24,patrick1@contoso.com,425-555-0117,Florence Flipo,425-555-0117,Male,1,25.0,61,Production,2000-03-15,Current,Not Salaried,No,Yes
+254,6,Robin,Wood,Sales Store Manager,2000-03-16,1961-10-06,krishna0@contoso.com,491-555-0183,Joanna Yuan,491-555-0183,Male,1,25.0,2,Production,2000-03-16,Current,Not Salaried,No,No
+255,6,Raymond,Fong,Sales Store Manager,2000-03-19,1960-08-31,lori1@contoso.com,295-555-0161,Olivier Fontana,295-555-0161,Female,1,25.0,90,Facilities and Maintenance,2000-03-19,Current,Not Salaried,No,Yes
+256,6,Karin,Zimprich,Sales Store Manager,2000-03-23,1976-10-08,danielle0@contoso.com,500-555-0172,Erwin Zischka,500-555-0172,Female,1,25.0,97,Production,2000-03-23,Current,Not Salaried,No,No
+257,6,Jeff,Ford,Sales Store Manager,2000-03-26,1933-01-05,sootha0@contoso.com,325-555-0137,Viggo Forde,325-555-0137,Male,2,25.0,85,Quality Assurance,2000-03-26,Current,Not Salaried,No,Yes
+258,6,Aziz,Hassouneh,Sales Store Manager,2000-03-26,1963-10-07,michael7@contoso.com,582-555-0148,Satomi Hayakawa,582-555-0148,Male,1,25.0,26,Production,2000-03-26,Current,Not Salaried,No,No
+259,6,Diane,Forsyth,Sales Store Manager,2000-03-26,1960-05-29,randy0@contoso.com,961-555-0122,Garth Fort,961-555-0122,Male,1,25.0,29,Production,2000-03-26,Current,Not Salaried,No,Yes
+260,6,Arno,Harteveld,Sales Store Manager,2000-03-30,1976-10-29,john4@contoso.com,254-555-0114,Roger Harui,254-555-0114,Male,1,25.0,92,Production,2000-03-30,Current,Not Salaried,No,No
+261,6,Soren,Francker,Sales Store Manager,2000-04-03,1963-09-30,jack1@contoso.com,521-555-0113,Jill Frank,521-555-0113,Male,1,25.0,62,Production,2000-04-03,Current,Not Salaried,No,No
+262,6,Mark,Harrington,Sales Store Manager,2000-04-04,1960-05-05,olinda0@contoso.com,306-555-0186,Phyllis Harris,306-555-0186,Female,1,25.0,3,Production,2000-04-04,Current,Not Salaried,No,No
+263,6,Joel,Frauenheim,Sales Store Manager,2000-04-05,1962-01-17,stuart1@contoso.com,539-555-0149,Sven Freitag,539-555-0149,Male,1,25.0,88,Facilities and Maintenance,2000-04-05,Current,Not Salaried,No,Yes
+264,6,Eran,Harel,Sales Store Manager,2000-04-07,1944-05-25,jo1@contoso.com,228-555-0159,Walter Harp,228-555-0159,Female,1,25.0,91,Facilities and Maintenance,2000-04-07,Current,Not Salaried,No,Yes
+265,6,Victor,Freitas,Sales Store Manager,2000-04-09,1963-07-05,ben0@contoso.com,151-555-0113,Mihail Frintu,151-555-0113,Male,2,25.0,55,Purchasing,2000-04-09,Current,Not Salaried,No,Yes
+266,6,Claus,Hansen,Sales Store Manager,2000-04-10,1976-11-01,tom0@contoso.com,295-555-0161,Mark Hanson,295-555-0161,Male,1,25.0,98,Production,2000-04-10,Current,Not Salaried,No,Yes
+267,6,Gabe,Frost,Sales Store Manager,2001-01-05,1968-02-18,ovidiu0@contoso.com,719-555-0181,Don Funk,719-555-0181,Male,2,25.0,7,Tool Design,2001-01-05,Current,Not Salaried,No,No
+268,6,Jim,Hance,Sales Store Manager,2001-01-06,1968-03-01,annette0@contoso.com,125-555-0196,Kerim Hanif,125-555-0196,Female,2,25.0,50,Purchasing,2001-01-06,Current,Not Salaried,No,Yes
+269,6,Kari,Furse,Sales Store Manager,2001-01-23,1979-06-29,janice0@contoso.com,473-555-0117,Lawrie Gaffney,473-555-0117,Female,2,25.0,8,Tool Design,2001-01-23,Current,Not Salaried,No,Yes
+270,6,David,Hamilton,Sales Store Manager,2001-01-25,1968-02-18,reinout0@contoso.com,370-555-0163,Jay Hamlin,370-555-0163,Male,2,25.0,51,Purchasing,2001-01-25,Current,Not Salaried,No,Yes
+271,6,Mike,Gahrns,Sales Store Manager,2001-01-30,1969-07-17,michael8@contoso.com,465-555-0156,Chris Gallagher,465-555-0156,Male,2,25.0,3,Engineering,2001-01-30,Current,Salaried,No,No
+272,6,Dean,Halstead,Sales Store Manager,2001-02-04,1941-11-17,stephen0@contoso.com,238-555-0197,Thomas Hamborg,238-555-0197,Male,2,25.0,14,Sales,2001-02-04,Current,Salaried,Yes,Yes
+273,6,Janet,Galore,Sales Store Manager,2001-02-07,1965-04-17,wanida0@contoso.com,708-555-0141,David Galvin,708-555-0141,Female,2,25.0,41,Marketing,2001-02-07,Current,Not Salaried,No,Yes
+274,6,Adina,Hagege,Sales Store Manager,2001-02-18,1951-06-03,sharon0@contoso.com,970-555-0138,Pernille Halberg,970-555-0138,Female,2,25.0,4,Engineering,2001-02-18,Current,Salaried,No,Yes
+275,6,Cesar,Garcia,Sales Store Manager,2001-03-10,1968-04-06,john5@contoso.com,486-555-0150,Debra Garcia,486-555-0150,Male,2,25.0,48,Marketing,2001-03-10,Current,Not Salaried,No,No
+276,6,Mary,Andersen,Sales Store Manager,2001-03-17,1968-03-01,mary2@contoso.com,124-555-0114,Ivo Haemels,124-555-0114,Female,2,25.0,43,Marketing,2001-03-17,Current,Not Salaried,No,No
+277,6,Hugo,Garcia,Sales Store Manager,2001-03-18,1967-07-08,brian3@contoso.com,716-555-0127,Euan Garden,716-555-0127,Male,2,25.0,10,Sales,2001-03-18,Current,Salaried,No,No
+278,6,Allan,Guinot,Sales Store Manager,2001-03-28,1968-03-13,AllanG@contoso.com,210-555-0193,Pedro Gutierrez,210-555-0193,Female,2,25.0,49,Purchasing,2001-03-28,Current,Salaried,No,No
+279,6,Davide,Garghentini,Sales Store Manager,2001-03-28,1968-03-13,DavideG@contoso.com,210-555-0193,Benjamin Gay,210-555-0193,Female,2,25.0,49,Purchasing,2001-08-31,Current,Salaried,No,No
+280,6,Eric,Gruber,Sales Store Manager,2001-03-28,1968-03-13,EricG@contoso.com,210-555-0193,Daniela Guaita,210-555-0193,Female,2,25.0,49,Purchasing,2002-08-16,Current,Salaried,No,No
+281,6,Inbar,Gazit,Sales Store Manager,2001-07-01,1959-01-26,michael9@contoso.com,257-555-0154,Darren Gehring,257-555-0154,Male,2,25.0,38,Sales,2001-07-01,Current,Salaried,Yes,No
+282,7,Seth,Grossman,Sales Store Manager,2001-07-01,1970-03-30,linda3@contoso.com,883-555-0116,Brian Groth,883-555-0116,Female,2,25.0,27,Sales,2001-07-01,Current,Salaried,Yes,Yes
+283,7,Christa,Geller,Sales Store Manager,2001-07-01,1952-09-29,jillian0@contoso.com,517-555-0117,Jens Geschwandtner,517-555-0117,Female,2,25.0,24,Sales,2001-07-01,Current,Salaried,Yes,No
+284,7,Carlos,Grilo,Sales Store Manager,2001-07-01,1965-03-07,garrett1@contoso.com,922-555-0165,Geoff Grisso,922-555-0165,Male,2,25.0,33,Sales,2001-07-01,Current,Salaried,Yes,Yes
+285,7,Tom,Getzinger,Sales Store Manager,2001-07-01,1964-02-19,tsvi0@contoso.com,664-555-0112,Wriju Ghosh,664-555-0112,Male,2,25.0,29,Sales,2001-07-01,Current,Salaried,Yes,Yes
+286,7,Kirk,Gregersen,Sales Store Manager,2001-07-01,1965-01-06,pamela0@contoso.com,340-555-0193,Ryan Gregg,340-555-0193,Female,2,25.0,22,Sales,2001-07-01,Current,Salaried,Yes,No
+287,7,Leo,Giakoumakis,Sales Store Manager,2001-07-01,1934-04-10,shu0@contoso.com,330-555-0120,Phil Gibbins,330-555-0120,Male,2,25.0,26,Sales,2001-07-01,Current,Salaried,Yes,Yes
+288,7,Nikolay,Grachev,Sales Store Manager,2001-07-01,1930-01-11,josé1@contoso.com,185-555-0169,Chris Gray,185-555-0169,Male,2,25.0,31,Sales,2001-07-01,Current,Salaried,Yes,Yes
+289,7,Enrique,Gil,Sales Store Manager,2001-07-01,1964-03-14,david8@contoso.com,740-555-0182,Guy Gilbert,740-555-0182,Male,2,25.0,23,Sales,2001-07-01,Current,Salaried,Yes,No
+290,7,Mojca,Gostincar,Sales Store Manager,2002-05-18,1947-10-22,amy0@contoso.com,775-555-0164,Elisa Graceffo,775-555-0164,Female,2,25.0,21,Sales,2002-05-18,Current,Salaried,Yes,Yes
+291,7,Eric,Gilmore,Sales Store Manager,2002-07-01,1958-04-18,jae0@contoso.com,1 (11) 500 555-0145,Adriana Giorgi,1 (11) 500 555-0145,Female,2,25.0,37,Sales,2002-07-01,Current,Salaried,Yes,Yes
+292,7,Nuria,Gonzalez,Sales Store Manager,2002-07-01,1965-10-31,ranjit0@contoso.com,1 (11) 500 555-0117,Jon Gordner,1 (11) 500 555-0117,Male,2,25.0,34,Sales,2002-07-01,Current,Salaried,Yes,No
+293,7,Stuart,Glasson,Sales Store Manager,2002-11-01,1968-02-06,tete0@contoso.com,615-555-0153,Jim Glynn,615-555-0153,Male,2,25.0,39,Sales,2002-11-01,Current,Salaried,Yes,Yes
+294,7,Daniel,Goldschmidt,Sales Store Manager,2003-04-15,1965-02-11,syed0@contoso.com,926-555-0182,Howard Gonzalez,926-555-0182,Male,2,25.0,20,Sales,2003-04-15,Current,Salaried,Yes,Yes
+295,7,Gerhard,Goeschl,Sales Store Manager,2003-07-01,1965-08-09,rachel0@contoso.com,1 (11) 500 555-0140,Mete Goktepe,1 (11) 500 555-0140,Female,2,25.0,35,Sales,2003-07-01,Current,Salaried,Yes,No
+296,7,Jossef,Goldberg,Sales Store Manager,2003-07-01,1961-04-18,lynn0@contoso.com,1 (11) 500 555-0190,Maxim Goldin,1 (11) 500 555-0190,Female,2,25.0,36,Sales,2003-07-01,Current,Salaried,Yes,No

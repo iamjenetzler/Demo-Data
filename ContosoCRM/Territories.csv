@@ -1,0 +1,299 @@
+Country,State Or Province Abbreviation,Region,Territory
+Afghanistan,-,APAC,Afghanistan
+Aland Islands,-,EMEA,Aland Islands
+Albania,-,EMEA,Albania
+Algeria,-,EMEA,Algeria
+American Samoa,-,APAC,American Samoa
+Andorra,-,EMEA,Andorra
+Angola,-,EMEA,Angola
+Anguilla,-,LATAM,Anguilla
+Antarctica,-,APAC,Antarctica
+Antigua and Barbuda,-,LATAM,Antigua and Barbuda
+Argentina,-,LATAM,Argentina
+Armenia,-,EMEA,Armenia
+Aruba,-,LATAM,Aruba
+Australia,-,APAC,Australia
+Austria,-,EMEA,Austria
+Azerbaijan,-,APAC,Azerbaijan
+Bahamas,-,LATAM,Bahamas
+Bahrain,-,EMEA,Bahrain
+Bangladesh,-,APAC,Bangladesh
+Barbados,-,LATAM,Barbados
+Belarus,-,EMEA,Belarus
+Belgium,-,EMEA,Belgium
+Belize,-,LATAM,Belize
+Benin,-,EMEA,Benin
+Bermuda,-,North America,Bermuda
+Bhutan,-,APAC,Bhutan
+Bolivia,-,LATAM,Bolivia
+Bosnia and Herzegovina,-,EMEA,Bosnia and Herzegovina
+Botswana,-,EMEA,Botswana
+Bouvet Island,-,LATAM,Bouvet Island
+Brazil,-,LATAM,Brazil
+British Indian Ocean Territory,-,APAC,British Indian Ocean Territory
+Brunei Darussalam,-,APAC,Brunei Darussalam
+Bulgaria,-,EMEA,Bulgaria
+Burkina Faso,-,EMEA,Burkina Faso
+Burundi,-,EMEA,Burundi
+Cambodia,-,APAC,Cambodia
+Cameroon,-,EMEA,Cameroon
+Canada,-,North America,Canada
+Cape Verde,-,EMEA,Cape Verde
+Cayman Islands,-,LATAM,Cayman Islands
+Central African Republic,-,EMEA,Central African Republic
+Chad,-,EMEA,Chad
+Chile,-,LATAM,Chile
+China,-,APAC,China
+Christmas Island,-,APAC,Christmas Island
+Cocos (Keeling) Islands,-,APAC,Cocos (Keeling) Islands
+Colombia,-,LATAM,Colombia
+Comoros,-,EMEA,Comoros
+Congo,-,EMEA,Congo
+"Congo, The Democratic Republic of the",-,EMEA,"Congo, The Democratic Republic of the"
+Cook Islands,-,APAC,Cook Islands
+Costa Rica,-,LATAM,Costa Rica
+Côte D'Ivoire,-,EMEA,Côte D'Ivoire
+Croatia,-,EMEA,Croatia
+Cuba,-,LATAM,Cuba
+Cyprus,-,EMEA,Cyprus
+Czechia,-,EMEA,Czech Republic
+Denmark,-,EMEA,Denmark
+Djibouti,-,EMEA,Djibouti
+Dominica,-,LATAM,Dominica
+Dominican Republic,-,LATAM,Dominican Republic
+Ecuador,-,LATAM,Ecuador
+Egypt,-,EMEA,Egypt
+El Salvador,-,LATAM,El Salvador
+Equatorial Guinea,-,EMEA,Equatorial Guinea
+Eritrea,-,EMEA,Eritrea
+Estonia,-,EMEA,Estonia
+Ethiopia,-,EMEA,Ethiopia
+Falkland Islands (Malvinas),-,LATAM,Falkland Islands (Malvinas)
+Faroe Islands,-,EMEA,Faroe Islands
+Fiji,-,APAC,Fiji
+Finland,-,EMEA,Finland
+France,-,EMEA,France
+"France, Metropolitan",-,EMEA,"France, Metropolitan"
+French Guiana,-,LATAM,French Guiana
+French Polynesia,-,APAC,French Polynesia
+French Southern Territories,-,APAC,French Southern Territories
+Gabon,-,EMEA,Gabon
+Gambia,-,EMEA,Gambia
+Georgia,-,EMEA,Georgia
+Germany,-,EMEA,Germany
+Ghana,-,EMEA,Ghana
+Gibraltar,-,EMEA,Gibraltar
+Greece,-,EMEA,Greece
+Greenland,-,EMEA,Greenland
+Grenada,-,LATAM,Grenada
+Guadeloupe,-,LATAM,Guadeloupe
+Guam,-,APAC,Guam
+Guatemala,-,LATAM,Guatemala
+Guernsey,-,EMEA,Guernsey
+Guinea,-,EMEA,Guinea
+Guinea-Bissau,-,EMEA,Guinea-Bissau
+Guyana,-,LATAM,Guyana
+Haiti,-,LATAM,Haiti
+Heard Island and McDonald Islands,-,APAC,Heard Island and McDonald Islands
+Holy See (Vatican City State),-,EMEA,Holy See (Vatican City State)
+Honduras,-,LATAM,Honduras
+Hong Kong SAR,-,APAC,Hong Kong
+Hungary,-,EMEA,Hungary
+Iceland,-,EMEA,Iceland
+India,-,APAC,India
+Indonesia,-,APAC,Indonesia
+"Iran, Islamic Republic of",-,APAC,"Iran, Islamic Republic of"
+Iraq,-,EMEA,Iraq
+Ireland,-,EMEA,Ireland
+Isle of Man,-,EMEA,Isle of Man
+Israel,-,EMEA,Israel
+Italy,-,EMEA,Italy
+Jamaica,-,LATAM,Jamaica
+Japan,-,APAC,Japan
+Jersey,-,EMEA,Jersey
+Jordan,-,EMEA,Jordan
+Kazakhstan,-,APAC,Kazakhstan
+Kenya,-,EMEA,Kenya
+Kiribati,-,APAC,Kiribati
+"Korea, Democratic People's Republic of",-,APAC,"Korea, Democratic People's Republic of"
+Korea,-,APAC,"Korea, Republic of"
+Kuwait,-,EMEA,Kuwait
+Kyrgyzstan,-,APAC,Kyrgyzstan
+Lao People's Democratic Republic,-,APAC,Lao People's Democratic Republic
+Latvia,-,EMEA,Latvia
+Lebanon,-,EMEA,Lebanon
+Lesotho,-,EMEA,Lesotho
+Liberia,-,EMEA,Liberia
+Libya,-,EMEA,Libya
+Liechtenstein,-,EMEA,Liechtenstein
+Lithuania,-,EMEA,Lithuania
+Luxembourg,-,EMEA,Luxembourg
+Macau,-,APAC,Macau
+Macedonia,-,EMEA,Macedonia
+Madagascar,-,EMEA,Madagascar
+Malawi,-,EMEA,Malawi
+Malaysia,-,APAC,Malaysia
+Maldives,-,APAC,Maldives
+Mali,-,EMEA,Mali
+Malta,-,EMEA,Malta
+Marshall Islands,-,APAC,Marshall Islands
+Martinique,-,LATAM,Martinique
+Mauritania,-,EMEA,Mauritania
+Mauritius,-,EMEA,Mauritius
+Mayotte,-,EMEA,Mayotte
+Mexico,-,North America,Mexico
+"Micronesia, Federated States of",-,APAC,"Micronesia, Federated States of"
+"Moldova, Republic of",-,EMEA,"Moldova, Republic of"
+Monaco,-,EMEA,Monaco
+Mongolia,-,APAC,Mongolia
+Montenegro,-,EMEA,Montenegro
+Montserrat,-,LATAM,Montserrat
+Morocco,-,EMEA,Morocco
+Mozambique,-,EMEA,Mozambique
+Myanmar,-,APAC,Myanmar
+Namibia,-,EMEA,Namibia
+Nauru,-,APAC,Nauru
+Nepal,-,APAC,Nepal
+Netherlands,-,EMEA,Netherlands
+Netherlands Antilles,-,LATAM,Netherlands Antilles
+New Caledonia,-,APAC,New Caledonia
+New Zealand,-,APAC,New Zealand
+Nicaragua,-,LATAM,Nicaragua
+Niger,-,EMEA,Niger
+Nigeria,-,EMEA,Nigeria
+Niue,-,APAC,Niue
+Norfolk Island,-,APAC,Norfolk Island
+Northern Mariana Islands,-,APAC,Northern Mariana Islands
+Norway,-,EMEA,Norway
+Oman,-,EMEA,Oman
+Pakistan,-,APAC,Pakistan
+Palau,-,APAC,Palau
+Palestinian Territory,-,EMEA,Palestinian Territory
+Panama,-,LATAM,Panama
+Papua New Guinea,-,APAC,Papua New Guinea
+Paraguay,-,LATAM,Paraguay
+Peru,-,LATAM,Peru
+Philippines,-,APAC,Philippines
+Pitcairn Islands,-,APAC,Pitcairn Islands
+Poland,-,EMEA,Poland
+Portugal,-,EMEA,Portugal
+Puerto Rico,-,LATAM,Puerto Rico
+Qatar,-,EMEA,Qatar
+Reunion,-,APAC,Reunion
+Romania,-,EMEA,Romania
+Russia,-,EMEA,Russian Federation
+Rwanda,-,EMEA,Rwanda
+Saint Barthelemy,-,LATAM,Saint Barthelemy
+Saint Helena,-,EMEA,Saint Helena
+Saint Kitts and Nevis,-,LATAM,Saint Kitts and Nevis
+Saint Lucia,-,LATAM,Saint Lucia
+Saint Martin,-,LATAM,Saint Martin
+Saint Pierre and Miquelon,-,North America,Saint Pierre and Miquelon
+Saint Vincent and the Grenadines,-,LATAM,Saint Vincent and the Grenadines
+Samoa,-,APAC,Samoa
+San Marino,-,EMEA,San Marino
+Sao Tome and Principe,-,EMEA,Sao Tome and Principe
+Saudi Arabia,-,EMEA,Saudi Arabia
+Senegal,-,EMEA,Senegal
+Serbia,-,EMEA,Serbia
+Seychelles,-,EMEA,Seychelles
+Sierra Leone,-,EMEA,Sierra Leone
+Singapore,-,APAC,Singapore
+Slovakia,-,EMEA,Slovakia
+Slovenia,-,EMEA,Slovenia
+Solomon Islands,-,APAC,Solomon Islands
+Somalia,-,EMEA,Somalia
+South Africa,-,EMEA,South Africa
+South Georgia and the South Sandwich Islands,-,LATAM,South Georgia and the South Sandwich Islands
+South Sudan,-,EMEA,South Sudan
+Spain,-,EMEA,Spain
+Sri Lanka,-,APAC,Sri Lanka
+Sudan,-,EMEA,Sudan
+Suriname,-,LATAM,Suriname
+Svalbard and Jan Mayen,-,EMEA,Svalbard and Jan Mayen
+Swaziland,-,EMEA,Swaziland
+Sweden,-,EMEA,Sweden
+Switzerland,-,EMEA,Switzerland
+Syrian Arab Republic,-,APAC,Syrian Arab Republic
+Taiwan,-,APAC,Taiwan
+Tajikistan,-,APAC,Tajikistan
+"Tanzania, United Republic of",-,EMEA,"Tanzania, United Republic of"
+Thailand,-,APAC,Thailand
+Timor-Leste,-,APAC,Timor-Leste
+Togo,-,EMEA,Togo
+Tokelau,-,APAC,Tokelau
+Tonga,-,APAC,Tonga
+Trinidad and Tobago,-,LATAM,Trinidad and Tobago
+Tunisia,-,EMEA,Tunisia
+Turkey,-,EMEA,Turkey
+Turkmenistan,-,APAC,Turkmenistan
+Turks and Caicos Islands,-,LATAM,Turks and Caicos Islands
+Tuvalu,-,APAC,Tuvalu
+Uganda,-,EMEA,Uganda
+Ukraine,-,EMEA,Ukraine
+United Arab Emirates,-,EMEA,United Arab Emirates
+United Kingdom,-,EMEA,United Kingdom
+United States,AK,North America,US-WEST
+United States,AL,North America,US-SOUTH
+United States,AR,North America,US-SOUTH
+United States,AZ,North America,US-WEST
+United States,CA,North America,US-WEST
+United States,CO,North America,US-WEST
+United States,CT,North America,US-NORTHEAST
+United States,DC,North America,US-SOUTH
+United States,DE,North America,US-SOUTH
+United States,FL,North America,US-SOUTH
+United States,GA,North America,US-SOUTH
+United States,HI,North America,US-WEST
+United States,IA,North America,US-MIDWEST
+United States,ID,North America,US-WEST
+United States,IL,North America,US-MIDWEST
+United States,IN,North America,US-MIDWEST
+United States,KS,North America,US-MIDWEST
+United States,KY,North America,US-SOUTH
+United States,LA,North America,US-SOUTH
+United States,MA,North America,US-NORTHEAST
+United States,MD,North America,US-SOUTH
+United States,ME,North America,US-NORTHEAST
+United States,MI,North America,US-MIDWEST
+United States,MN,North America,US-MIDWEST
+United States,MO,North America,US-MIDWEST
+United States,MS,North America,US-SOUTH
+United States,MT,North America,US-WEST
+United States,NC,North America,US-SOUTH
+United States,ND,North America,US-MIDWEST
+United States,NE,North America,US-MIDWEST
+United States,NH,North America,US-NORTHEAST
+United States,NJ,North America,US-NORTHEAST
+United States,NM,North America,US-WEST
+United States,NV,North America,US-WEST
+United States,NY,North America,US-NORTHEAST
+United States,OH,North America,US-MIDWEST
+United States,OK,North America,US-SOUTH
+United States,OR,North America,US-WEST
+United States,PA,North America,US-NORTHEAST
+United States,RI,North America,US-NORTHEAST
+United States,SC,North America,US-SOUTH
+United States,SD,North America,US-MIDWEST
+United States,TN,North America,US-SOUTH
+United States,TX,North America,US-SOUTH
+United States,UT,North America,US-WEST
+United States,VA,North America,US-SOUTH
+United States,VT,North America,US-NORTHEAST
+United States,WA,North America,US-WEST
+United States,WI,North America,US-MIDWEST
+United States,WV,North America,US-SOUTH
+United States,WY,North America,US-WEST
+United States Minor Outlying Islands,-,APAC,United States Minor Outlying Islands
+Uruguay,-,LATAM,Uruguay
+Uzbekistan,-,APAC,Uzbekistan
+Vanuatu,-,APAC,Vanuatu
+Venezuela,-,LATAM,Venezuela
+Vietnam,-,APAC,Vietnam
+"Virgin Islands, British",-,LATAM,"Virgin Islands, British"
+"Virgin Islands, U.S.",-,LATAM,"Virgin Islands, U.S."
+Wallis and Futuna,-,APAC,Wallis and Futuna
+Western Sahara,-,EMEA,Western Sahara
+Yemen,-,EMEA,Yemen
+Zambia,-,EMEA,Zambia
+Zimbabwe,-,EMEA,Zimbabwe
